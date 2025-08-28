@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "55072baea54aa98f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d105ca7a7ba8927",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0df31e1d172ce0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecee05be282043c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd17523c580aaeac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070b10e5f284e2a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "138ffc83c9dc7312",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ganttchart",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5b3115bca5cc97c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba5bcff7f93daa05",
+    "type": "split",
+    "children": [
+      {
+        "id": "5abb8e5e99c3597e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe86323f16c9afa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "26867aae0852ef70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f90e4378acb64c33",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4634e9583869d42e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "task-board:Open task board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "cd0df31e1d172ce0",
+  "lastOpenFiles": [
+    "GANTT Test.md",
+    "Planning/GANTT View.md",
+    "Planning/Modules.md",
+    "gantt.test.js",
+    "gantt.js",
+    "Planning/Tasks.md",
+    "Evaluation Table of Resources.md",
+    "Modules.md",
+    "Welcome.md",
+    "Autogantt.md",
+    "Lessons/Week 24 - Mid Project Review & Essay Writing.md",
+    "Planning/Project Plan Version 1.md",
+    "Planning/GANTT Test.md",
+    "Planning/Essay Planning Version 1.md",
+    "Lessons/Week 23 - Essay Planning.md",
+    "Lessons/Week 3 - Outline how the project works.md",
+    "Pasted image 20250124141258.png",
+    "Pasted image 20250210103639.png"
+  ]
+}

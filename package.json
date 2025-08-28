@@ -1,0 +1,11 @@
+{
+  "name": "cyberepq",
+  "version": "1.0.0",
+  "main": "gantt.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

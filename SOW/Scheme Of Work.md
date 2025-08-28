@@ -1,0 +1,25 @@
+
+- [ ] Week 1 Sign Up. No Mon  🛫 2025-09-01 7 days
+- [ ] Week 2 [[1 - Outline how the course works]] 7 days
+- [ ] Week 3 7 days
+- [ ] Week 4 [[2 - Planning Your Written Work]] 7 days
+- [ ] Week 5 [[3 - Referencing]] 7 days
+- [ ] Week 6 [[4 - Production Log Setup & Referencing]] 7 days
+- [ ] Week 7 [[5 - Research & ROIP Prep]] 7 days
+- [ ] Week 8  No Wed-Fri 7 days
+- [ ] Week 9 [[6 - ROIP & Meetings]] 🛫 2025-11-03 7 days
+- [ ] Week 10  7 days
+- [ ] Week 11 [[7 - PPA Draft & Planning]] 7 days
+- [ ] Week 12  7 days
+- [ ] Week 13 [[8 - PPB Meetings]] 7 days
+- [ ] Week 14 [[9 - Get On With It]] 7 days
+- [ ] Week 15  7 days
+- [ ] Week 16  🛫 2026-01-05 7 days
+- [ ] Week 17 [[10 - Planning Review]] 7 days
+- [ ] Week 18 [[11 - Essay Writing Activity 1]] 7 days
+- [ ] Week 19 [[12 - Essay Planning]] 7 days
+- [ ] Week 20 [[13 - Mid Project Review & Essay Writing]] 7 days
+- [ ] Week 21 [[14 - Presentation Planning]] 7 days
+- [ ] Week 22 [[15 - Presentation Planning]]  🛫 2026-02-23 7 days
+- [ ] Week 23 [[16 - Presentations]] 7 days
+- [ ] Week 24  7 days

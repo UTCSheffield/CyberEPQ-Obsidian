@@ -1,0 +1,366 @@
+{
+  "main": {
+    "id": "55072baea54aa98f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2634951f8cffe63c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c47324f953dd0ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning/Modules June Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modules June Start"
+            }
+          },
+          {
+            "id": "ef348d60fb0484cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning/Modules September Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modules September Start"
+            }
+          },
+          {
+            "id": "4d78a536753d8312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning/Planning Tasks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning Tasks"
+            }
+          },
+          {
+            "id": "dca857844f74b2a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOW/Scheme Of Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scheme Of Work"
+            }
+          },
+          {
+            "id": "549d0e70d76f00fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planning/GANTT - Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GANTT - Template"
+            }
+          },
+          {
+            "id": "f7d712f3b7c8f9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/1 - Outline how the project works.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 - Outline how the project works"
+            }
+          },
+          {
+            "id": "5f603c59b3e63eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberEPQ Project Titles/2023-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2023-24"
+            }
+          },
+          {
+            "id": "e6ae9a2072964ac4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberEPQ Project Titles/2017-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2017-18"
+            }
+          },
+          {
+            "id": "870e33f693c5c409",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberEPQ Project Titles/2021-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2021-22"
+            }
+          },
+          {
+            "id": "0f0aa6ce623316ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/7 - PPA Draft & Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 - PPA Draft & Planning"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "2b1cad61e1842a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eaf6a4712887b0f",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 1 - Outline how the project works.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecee05be282043c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd17523c580aaeac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070b10e5f284e2a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "138ffc83c9dc7312",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ganttchart",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a5b3115bca5cc97c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba5bcff7f93daa05",
+    "type": "split",
+    "children": [
+      {
+        "id": "877b41ff553d1359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d83282b56483bb6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Planning/GANTT - Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GANTT - Template"
+            }
+          },
+          {
+            "id": "7fcac61e547d4a16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Planning/GANTT - Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GANTT - Template"
+            }
+          },
+          {
+            "id": "86c8f3740f7fcb1d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5fbe2dff94278608",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Planning/GANTT - Template.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GANTT - Template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's note": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "task-board:Open task board": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "slides-extended:Show slide preview": false
+    }
+  },
+  "active": "0f0aa6ce623316ce",
+  "lastOpenFiles": [
+    "Lessons/6 - ROIP & Meetings.md",
+    "Lessons/5 - Research & ROIP Prep.md",
+    "Lessons/4 - Production Log Setup & Referencing.md",
+    "Lessons/3 - Referencing.md",
+    "Lessons/1 - Outline how the project works.md",
+    "Lessons/Forming An Idea.md",
+    "Clippings/About CIISec.md",
+    "Pasted image 20250723100659.png",
+    "Images/Pasted image 20250210103639.png",
+    "Images/Pasted image 20250124141258.png",
+    "Lessons/1 - Outline how the course works.md",
+    "Lessons/2 - Planning Your Written Work.md",
+    "Clippings/The CyberEPQ.md",
+    "Planning/Essay Planning.md",
+    "Lessons/Upcoming Tasks.md",
+    "Lessons/The Stages.md",
+    "Lessons/What will I have to do.md",
+    "Lessons/Previous Titles.md",
+    "CyberEPQ Project Titles/2021-22.md",
+    "CyberEPQ Project Titles/2020-21.md",
+    "CyberEPQ Project Titles/2019-20.md",
+    "CyberEPQ Project Titles/2023-24.md",
+    "CyberEPQ Project Titles/2018-19.md",
+    "CyberEPQ Project Titles/2017-18.md",
+    "CyberEPQ Project Titles/2022-23.md",
+    "CyberEPQ Project Titles/2024-25.md",
+    "CyberEPQ Project Titles",
+    "Planning/GANTT - Template.md",
+    "Lessons/10 - Planning Review.md",
+    "Lessons/15 - Presentation Planning.md",
+    "Output/1 - Outline how the project works.pdf",
+    "Images/CyberEPQ - W20 -  Planning Review_1.png",
+    "Images/CyberEPQ - W21 -  Essay Writing Activity 1_0.png",
+    "Images/CyberEPQ - W21 -  Essay Writing Activity 1_1.png",
+    "Images/CyberEPQ - W21 -  Essay Writing Activity 1_2.png",
+    "Images/CyberEPQ - W20 -  Planning Review_2.png",
+    "Images/CyberEPQ - W20 -  Planning Review_0.png",
+    "Images/CyberEPQ - W13 -  PPA Draft & Planning_2.png",
+    "Images",
+    "Lessons/CyberEPQ - W27 - Presentation Planning.pptx",
+    "Lessons/CyberEPQ - W26 - Presentation Planning.pptx",
+    "Lessons/CyberEPQ - W23 -  Essay Planning.pptx",
+    "Lessons/CyberEPQ - W22 -  Essay Writing Activity 1.pptx",
+    "Lessons/CyberEPQ - W21 -  Essay Writing Activity 1.pptx",
+    "Lessons/CyberEPQ - W20 -  Planning Review.pptx",
+    "Lessons/CyberEPQ - W16 -  Get On With It.pptx"
+  ]
+}
