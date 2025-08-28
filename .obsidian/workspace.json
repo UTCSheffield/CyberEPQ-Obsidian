@@ -146,22 +146,36 @@
               "icon": "lucide-file",
               "title": "7 - PPA Draft & Planning"
             }
+          },
+          {
+            "id": "b578f315c01553b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/4 - Production Log Setup & Referencing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Production Log Setup & Referencing"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       },
       {
-        "id": "2b1cad61e1842a34",
+        "id": "c130122c9847cbf9",
         "type": "tabs",
         "children": [
           {
-            "id": "6eaf6a4712887b0f",
+            "id": "84fc451bf848721d",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: 1 - Outline how the project works.md"
+              "title": "Preview: 1 - Outline how the course works.md"
             }
           }
         ]
@@ -187,7 +201,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -303,7 +317,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's note": false,
+      "daily-notes:Open today's daily note": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -314,20 +329,20 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "0f0aa6ce623316ce",
+  "active": "b578f315c01553b7",
   "lastOpenFiles": [
+    "Lessons/3 - Referencing.md",
+    "Lessons/2 - Planning Your Written Work.md",
+    "Lessons/1 - Outline how the course works.md",
     "Lessons/6 - ROIP & Meetings.md",
     "Lessons/5 - Research & ROIP Prep.md",
     "Lessons/4 - Production Log Setup & Referencing.md",
-    "Lessons/3 - Referencing.md",
     "Lessons/1 - Outline how the project works.md",
     "Lessons/Forming An Idea.md",
     "Clippings/About CIISec.md",
     "Pasted image 20250723100659.png",
     "Images/Pasted image 20250210103639.png",
     "Images/Pasted image 20250124141258.png",
-    "Lessons/1 - Outline how the course works.md",
-    "Lessons/2 - Planning Your Written Work.md",
     "Clippings/The CyberEPQ.md",
     "Planning/Essay Planning.md",
     "Lessons/Upcoming Tasks.md",
