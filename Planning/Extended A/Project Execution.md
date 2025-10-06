@@ -1,0 +1,12 @@
+
+- [ ] Planning Review 2w⏳2026-03-18
+- [ ] ?? 7 days
+- [ ] ?? 7 days
+- [ ] ?? 7 days
+- [ ] Mid Project Review 2w 
+- [ ] Essay Draft 2w
+- [ ] Draft Presentation  2w 📅 2026-06-05
+- [ ] Presentation Upload 1w 📅 2026-06-12
+- [ ] Essay Upload 2w 📅 2026-06-26
+- [ ] End of Project Paperwork Upload  📅 2026-07-10
+- [ ] Full Project Submission  📅 2026-07-17

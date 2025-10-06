@@ -1,25 +1,39 @@
-
-- [ ] Week 1 Sign Up. No Mon  🛫 2025-09-01 7 days
-- [ ] Week 2 [[1 - Outline how the course works]] 7 days
+- [ ] Week 1 No Mon  🛫 2025-09-01 7 days
+- [ ] Week 2 7 days
 - [ ] Week 3 7 days
-- [ ] Week 4 [[2 - Planning Your Written Work]] 7 days
-- [ ] Week 5 [[3 - Referencing]] 7 days
-- [ ] Week 6 [[4 - Production Log Setup & Referencing]] 7 days
-- [ ] Week 7 [[5 - Research & ROIP Prep]] 7 days
-- [ ] Week 8  No Wed-Fri 7 days
-- [ ] Week 9 [[6 - ROIP & Meetings]] 🛫 2025-11-03 7 days
-- [ ] Week 10  7 days
+- [ ] Week 4  7 days
+- [ ] Week 5 [[1 - Outline how the course works]]  7 days
+- [ ] Week 6 [[2 - Planning Your Written Work]]  7 days
+- [ ] Week 7 [[3 - Referencing]]  7 days
+- [ ] Week 8 [[4 - Production Log Setup & Referencing]] No Wed-Fri 7 days
+- [ ] Week 9 [[5 - Research & ROIP Prep]]  🛫 2025-11-03 7 days
+- [ ] Week 10 [[6 - ROIP & Meetings]] 7 days
 - [ ] Week 11 [[7 - PPA Draft & Planning]] 7 days
 - [ ] Week 12  7 days
 - [ ] Week 13 [[8 - PPB Meetings]] 7 days
 - [ ] Week 14 [[9 - Get On With It]] 7 days
 - [ ] Week 15  7 days
-- [ ] Week 16  🛫 2026-01-05 7 days
-- [ ] Week 17 [[10 - Planning Review]] 7 days
+- [ ] Week 16  [[5 - Research & ROIP Prep]] 🛫 2026-01-05 7 days
+- [ ] Week 17 [[10 - Planning Review]] [[6 - ROIP & Meetings]] 7 days
 - [ ] Week 18 [[11 - Essay Writing Activity 1]] 7 days
-- [ ] Week 19 [[12 - Essay Planning]] 7 days
+- [ ] Week 19 [[12 - Essay Planning]] [[7 - PPA Draft & Planning]] 7 days
 - [ ] Week 20 [[13 - Mid Project Review & Essay Writing]] 7 days
 - [ ] Week 21 [[14 - Presentation Planning]] 7 days
-- [ ] Week 22 [[15 - Presentation Planning]]  🛫 2026-02-23 7 days
-- [ ] Week 23 [[16 - Presentations]] 7 days
+- [ ] Week 22 [[15 - Presentation Planning]] [[8 - PPB Meetings]]  🛫 2026-02-23 7 days
+- [ ] Week 23 [[16 - Presentations]] [[9 - Get On With It]] 7 days
 - [ ] Week 24  7 days
+- [ ] Week 25  [[10 - Planning Review]] 7 days
+- [ ] Week 26  7 days
+- [ ] Week 27  7 days 🛫 2026-04-13
+- [ ] Week 28  7 days
+- [ ] Week 29  7 days
+- [ ] Week 30  7 days
+- [ ] Week 31  7 days
+- [ ] Week 32  7 days
+- [ ] Week 32  7 days 🛫 2026-06-01
+- [ ] Week 33  7 days
+- [ ] Week 34  7 days
+- [ ] Week 35  7 days
+- [ ] Week 36  7 days
+- [ ] Week 37  7 days
+- [ ] Week 38  7 days

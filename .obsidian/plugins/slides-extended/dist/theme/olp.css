@@ -37,7 +37,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 :root {
   --r-background-color: #ffffff;
   --r-main-font: tt rounds neue compressed, franklin-gothic-urw, helvetica neue, Helvetica Neue, Helvetica, Arial, sans-serif;
-  --r-main-font-size: 40px;
+  --r-main-font-size: 35px;
   --r-main-color: #000;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
@@ -49,9 +49,9 @@ section.has-light-background, section.has-light-background h1, section.has-light
   --r-heading-text-shadow: none;
   --r-heading-font-weight: 700;
   --r-heading1-text-shadow: none;
-  --r-heading1-size: 3.77em;
-  --r-heading2-size: 2.11em;
-  --r-heading3-size: 1.55em;
+  --r-heading1-size: 3em;
+  --r-heading2-size: 2em;
+  --r-heading3-size: 1.5em;
   --r-heading4-size: 1em;
   --r-code-font: Fira Code, Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
   --r-link-color: #ff6900;

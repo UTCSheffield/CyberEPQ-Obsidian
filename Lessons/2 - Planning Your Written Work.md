@@ -1,6 +1,7 @@
 # Lesson 2 - Planning Your Written Work
 
 
+![[Do Now]]
 
 ---
 
@@ -10,10 +11,14 @@
 ---
 # Planning your Written Work
 
-* [https://study\.cyberepq\.org\.uk/mod/scorm/view\.php?id=35171](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35171) / On the “ __[Project Writing Assistance](https://study.cyberepq.org.uk/course/view.php?id=62&section=3)__ page
+* Planning Your Written Work / On the “Project Writing Assistance" page  [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41553)  [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42101)
 * Tools :
 	* [https://mermaid\.live/](https://mermaid.live/)
 		  * Mindmap
 		  * Flow Chart
 		  * Gantt
-* Visual Studio Code \(Markdown with Mermaid extensions\)
+* Obsidian
+
+## Get On With It
+
+![[Upcoming Tasks]]
