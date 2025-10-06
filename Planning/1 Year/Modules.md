@@ -2,8 +2,8 @@
 tags:
   - gantt
 ---
-- [ ] Module 0 ⏳ 2025-09-27 7 days
-- [ ] Module 1 ⏳ 2025-09-27  7 days 
+- [ ] Module 0 ⏳2025-09-27 7 days
+- [ ] Module 1 ⏳2025-09-27  7 days 
 - [ ] Module 2 7 days
 - [ ] Module 3 7 days
 - [ ] Module 4 7 days
