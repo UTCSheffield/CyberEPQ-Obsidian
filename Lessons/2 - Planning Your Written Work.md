@@ -69,16 +69,60 @@ flowchart TD
 ### Mermaid GANTT Charts
 
 [![](https://mermaid.ink/img/pako:eNqlVN9r2zAQ_lcOwcYGdrDsOG79UkbTQgdhodkeNvyiWZdEiy0ZSW7alf7vk-zUdUpJHyYMPu67--4n90hKxZHkZMOktYUspBW2QvjOzM7AXtgtrCzTFpjkMG8R5syimXhD7qRrpWtm4ad74WIRzuceYPfCHIAPdfiB96zl7kZa1HesArpH3HltIQHA_wyWVigJC8XbCo1X9SJEkMdRnIbReRhnAUDGRyA9BcaQHyuS14rpa0V64KNRGKev-WanwOwUeDbEWTVYClYJYw-lPrvRkM68wbc71Kyq4KtqtXStusV1dehNDjHl42YtKyalkJt-WB65RYNMl9sRa-SSoVPeo6XSHNQabqSwLo0Xhhf7l-Tnmq0tLLX64-L5f6OM8_kCHzu_oab_sQhh1f6uhTFdgaUWNoBauA2wSmIAfVax-96kYU2jlVsoA5-Wy8vPYBWYcquUU_iCZmFE3WoctexAcXWPZes1x12DZN8Fem7LLd4J3I_Jupw6uZ_XxcVQ5dviQvAh6jGdK2vqLa6MYQ_Qd3uA4nQ8ApegtKzfgt4iCaOs78kI-9FUinHIjzvYWdOoCyW78Q-NZA3qvdK7k56jJN81u27d7j7Tvzfa3i8jAanRXQvB3Rl69CehIHaLNRYkdyLHNWsrW5BCPjlT1lq1epAlya1uMSBt4-_QXLCNZjXJ124bnLZhkuSP5J7kNEsnM5qeZbP0PJ7RbJoF5IHkSTrJYkppGscJpUkWzZ4C8lcpRxFNzrLp-fgFBLmwSi_6U9ldzC7Gr86hT0SrdrMdEthoX84BQclRX6pWWpdP8vQPzdG8Cg?type=png)](https://mermaid.live/edit#pako:eNqlVN9r2zAQ_lcOwcYGdrDsOG79UkbTQgdhodkeNvyiWZdEiy0ZSW7alf7vk-zUdUpJHyYMPu67--4n90hKxZHkZMOktYUspBW2QvjOzM7AXtgtrCzTFpjkMG8R5syimXhD7qRrpWtm4ad74WIRzuceYPfCHIAPdfiB96zl7kZa1HesArpH3HltIQHA_wyWVigJC8XbCo1X9SJEkMdRnIbReRhnAUDGRyA9BcaQHyuS14rpa0V64KNRGKev-WanwOwUeDbEWTVYClYJYw-lPrvRkM68wbc71Kyq4KtqtXStusV1dehNDjHl42YtKyalkJt-WB65RYNMl9sRa-SSoVPeo6XSHNQabqSwLo0Xhhf7l-Tnmq0tLLX64-L5f6OM8_kCHzu_oab_sQhh1f6uhTFdgaUWNoBauA2wSmIAfVax-96kYU2jlVsoA5-Wy8vPYBWYcquUU_iCZmFE3WoctexAcXWPZes1x12DZN8Fem7LLd4J3I_Jupw6uZ_XxcVQ5dviQvAh6jGdK2vqLa6MYQ_Qd3uA4nQ8ApegtKzfgt4iCaOs78kI-9FUinHIjzvYWdOoCyW78Q-NZA3qvdK7k56jJN81u27d7j7Tvzfa3i8jAanRXQvB3Rl69CehIHaLNRYkdyLHNWsrW5BCPjlT1lq1epAlya1uMSBt4-_QXLCNZjXJ124bnLZhkuSP5J7kNEsnM5qeZbP0PJ7RbJoF5IHkSTrJYkppGscJpUkWzZ4C8lcpRxFNzrLp-fgFBLmwSi_6U9ldzC7Gr86hT0SrdrMdEthoX84BQclRX6pWWpdP8vQPzdG8Cg)
----
-### Excel GANTT Charts
 
+---
+
+```
+gantt
+title Tasks with Start and Due Dates.
+dateFormat YYYY-MM-DD
+axisFormat %m-%d
+tickInterval 1week
+
+section Modules
+Module 0 :2025-09-27,  7d
+Module 1 :2025-09-27,  7d
+Module 2 : 7d
+Module 3 : 7d
+Module 4 : 7d
+Module 5 :2025-10-25,  7d
+Module 6 :2025-10-25,  7d
+Module 7 :2025-10-25,  7d
+Module 8 : 7d
+Specialist Module :2025-11-16
+Overall Journal Reflection : 21d
+
+section Planning Tasks
+Research :2025-11-10,  14d
+Record of Initial Planning :2025-11-15,  7d
+Draft Project Proposal A & Plan : 7d
+Project Proposal A & Plan : 7d
+Project Proposal A & Plan - Submission :crit, milestone, 2025-12-12
+Project Proposal approvals (PPC) to schools :2026-01-09
+
+section Project Execution
+Research : 3w
+Planning Review :2026-01-09, 2026-01-16
+?? : 7d
+?? : 7d
+?? : 7d
+Mid Project Review :2026-02-14
+Essay Draft :2026-02-25
+Draft Presentation :2026-03-07
+Presentation Upload :milestone, 2026-03-10
+End of Project Paperwork Upload :milestone, 2026-03-14
+Essay Upload :milestone, 2026-03-14
+Full Project Submission :crit, milestone, 2026-03-17
+```
+
+---
+
+### Excel GANTT Charts
+ 
 
 ![[Pasted image 20251009094420.png]]
 
-
 ---
-
-  
 ## Obsidian  
 
  [UTCSheffield/CyberEPQ-Obsidian: CyberEPQ as taught at UTC Sheffield OLP with research and planning tools built in using Obsidian.](https://github.com/UTCSheffield/CyberEPQ-Obsidian)
@@ -87,7 +131,7 @@ flowchart TD
 ## Planning your Written Work 
 ### study.cyberepq.org.uk
 
-* Do "Planning Your Written Work" / On the “Project Writing Assistance" page  [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41553)  [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42101)
+* [ ] Do "Planning Your Written Work" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41553)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42101) ) 📅 2025-10-10
 
 ---
 ## Get On With It
