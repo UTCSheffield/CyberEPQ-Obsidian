@@ -11,5 +11,5 @@ tags:
 - [ ] Module 6 7 days ⏳ 2025-10-25
 - [ ] Module 7 7 days ⏳ 2025-10-25
 - [ ] Module 8 7 days
-- [ ] Specialist Module 7 days  📅 2025-11-14
+- [ ] Specialist Module 7 days  📅 2025-11-16
 - [ ] Overall Journal Reflection 21 days 

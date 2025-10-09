@@ -16,7 +16,7 @@
 
 ## Research & Planning
 
-A lot of what you will be doing is :
+A lot of what you will be doing is:
 
 ### Research
 

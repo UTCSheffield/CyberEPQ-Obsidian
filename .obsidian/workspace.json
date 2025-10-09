@@ -8,174 +8,59 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c47324f953dd0ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning/Modules June Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modules June Start"
-            }
-          },
-          {
-            "id": "ef348d60fb0484cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning/Modules September Start.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modules September Start"
-            }
-          },
-          {
-            "id": "4d78a536753d8312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning/Planning Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Planning Tasks"
-            }
-          },
-          {
             "id": "dca857844f74b2a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOW/Scheme Of Work.md",
+                "file": "Essay Writing Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scheme Of Work"
+              "title": "Essay Writing Task"
             }
           },
           {
-            "id": "549d0e70d76f00fd",
+            "id": "44688f22b660b564",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/GANTT - Template.md",
+                "file": "Planning/Extended A Project Execution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GANTT - Template"
+              "title": "Extended A Project Execution"
             }
           },
           {
-            "id": "f7d712f3b7c8f9e2",
+            "id": "f5289edd9b2c3450",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/1 - Outline how the project works.md",
+                "file": "Evaluation Table of Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - Outline how the project works"
+              "title": "Evaluation Table of Resources"
             }
           },
           {
-            "id": "5f603c59b3e63eea",
+            "id": "ae26abf69b11216d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberEPQ Project Titles/2023-24.md",
+                "file": "SOW/GANTT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-24"
-            }
-          },
-          {
-            "id": "e6ae9a2072964ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberEPQ Project Titles/2017-18.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2017-18"
-            }
-          },
-          {
-            "id": "870e33f693c5c409",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberEPQ Project Titles/2021-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2021-22"
-            }
-          },
-          {
-            "id": "0f0aa6ce623316ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/7 - PPA Draft & Planning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 - PPA Draft & Planning"
-            }
-          },
-          {
-            "id": "b578f315c01553b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lessons/4 - Production Log Setup & Referencing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 - Production Log Setup & Referencing"
-            }
-          }
-        ],
-        "currentTab": 10
-      },
-      {
-        "id": "c130122c9847cbf9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "84fc451bf848721d",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: 1 - Outline how the course works.md"
+              "title": "GANTT"
             }
           }
         ]
@@ -235,23 +120,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.51103591918945
   },
   "right": {
     "id": "ba5bcff7f93daa05",
     "type": "split",
     "children": [
       {
-        "id": "877b41ff553d1359",
+        "id": "0af082ec4105bfd8",
         "type": "tabs",
         "children": [
           {
-            "id": "d83282b56483bb6e",
+            "id": "4a811050214f7579",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/GANTT - Template.md",
+                "file": "Evaluation Table of Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,25 +146,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GANTT - Template"
+              "title": "Backlinks for Evaluation Table of Resources"
             }
           },
           {
-            "id": "7fcac61e547d4a16",
+            "id": "da2e07d2bf0cf916",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning/GANTT - Template.md",
+                "file": "Evaluation Table of Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GANTT - Template"
+              "title": "Outgoing links from Evaluation Table of Resources"
             }
           },
           {
-            "id": "86c8f3740f7fcb1d",
+            "id": "66008b964960ef5b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -294,18 +179,18 @@
             }
           },
           {
-            "id": "5fbe2dff94278608",
+            "id": "6aa14651c8a9bfd5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning/GANTT - Template.md",
+                "file": "Evaluation Table of Resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GANTT - Template"
+              "title": "Outline of Evaluation Table of Resources"
             }
           }
         ]
@@ -329,53 +214,53 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "b578f315c01553b7",
+  "active": "dca857844f74b2a8",
   "lastOpenFiles": [
-    "Lessons/3 - Referencing.md",
+    "Welcome.md",
+    "Essay Writing Task.md",
+    "test.md",
+    "().md",
+    "Modules.pdf",
+    "Images/Pasted image 20250723100659.png",
     "Lessons/2 - Planning Your Written Work.md",
     "Lessons/1 - Outline how the course works.md",
-    "Lessons/6 - ROIP & Meetings.md",
-    "Lessons/5 - Research & ROIP Prep.md",
-    "Lessons/4 - Production Log Setup & Referencing.md",
-    "Lessons/1 - Outline how the project works.md",
-    "Lessons/Forming An Idea.md",
-    "Clippings/About CIISec.md",
-    "Pasted image 20250723100659.png",
-    "Images/Pasted image 20250210103639.png",
-    "Images/Pasted image 20250124141258.png",
-    "Clippings/The CyberEPQ.md",
+    "Output/2 - Planning Your Written Work.pdf",
+    "Images/Pasted image 20251009094420.png",
+    "Planning/1 Year/GANTT - Template.md",
+    "Evaluation Table of Resources.md",
     "Planning/Essay Planning.md",
-    "Lessons/Upcoming Tasks.md",
+    "Planning/Extended A/Project Execution.md",
+    "Planning/Extended A/Planning Tasks.md",
+    "Planning/Extended A/GANTT - Template.md",
+    "Planning/Extended A/Modules.md",
     "Lessons/The Stages.md",
-    "Lessons/What will I have to do.md",
-    "Lessons/Previous Titles.md",
-    "CyberEPQ Project Titles/2021-22.md",
-    "CyberEPQ Project Titles/2020-21.md",
-    "CyberEPQ Project Titles/2019-20.md",
+    "Clippings/The CyberEPQ.md",
+    "Clippings/About CIISec.md",
+    "Planning/1 Year/Modules.md",
+    "SOW/GANTT.md",
+    "SOW/Scheme Of Work.md",
+    "Planning/1 Year/Modules June Start.md",
     "CyberEPQ Project Titles/2023-24.md",
+    "CyberEPQ Project Titles/2024-25.md",
+    "CyberEPQ Project Titles/2022-23.md",
+    "CyberEPQ Project Titles/2019-20.md",
     "CyberEPQ Project Titles/2018-19.md",
     "CyberEPQ Project Titles/2017-18.md",
-    "CyberEPQ Project Titles/2022-23.md",
-    "CyberEPQ Project Titles/2024-25.md",
+    "Images/Pasted image 20251003133246.png",
+    "Output/GANTT - Template.pdf",
+    "Output/GANTT - Example.pdf",
+    "Planning/1 Year",
+    "Planning/Extended A",
+    "Output/1 - Outline how the course works.pdf",
+    "Images/Pasted image 20250210103639.png",
+    "Images/Pasted image 20250124141258.png",
     "CyberEPQ Project Titles",
-    "Planning/GANTT - Template.md",
-    "Lessons/10 - Planning Review.md",
-    "Lessons/15 - Presentation Planning.md",
     "Output/1 - Outline how the project works.pdf",
     "Images/CyberEPQ - W20 -  Planning Review_1.png",
     "Images/CyberEPQ - W21 -  Essay Writing Activity 1_0.png",
     "Images/CyberEPQ - W21 -  Essay Writing Activity 1_1.png",
     "Images/CyberEPQ - W21 -  Essay Writing Activity 1_2.png",
     "Images/CyberEPQ - W20 -  Planning Review_2.png",
-    "Images/CyberEPQ - W20 -  Planning Review_0.png",
-    "Images/CyberEPQ - W13 -  PPA Draft & Planning_2.png",
-    "Images",
-    "Lessons/CyberEPQ - W27 - Presentation Planning.pptx",
-    "Lessons/CyberEPQ - W26 - Presentation Planning.pptx",
-    "Lessons/CyberEPQ - W23 -  Essay Planning.pptx",
-    "Lessons/CyberEPQ - W22 -  Essay Writing Activity 1.pptx",
-    "Lessons/CyberEPQ - W21 -  Essay Writing Activity 1.pptx",
-    "Lessons/CyberEPQ - W20 -  Planning Review.pptx",
-    "Lessons/CyberEPQ - W16 -  Get On With It.pptx"
+    "Images"
   ]
 }

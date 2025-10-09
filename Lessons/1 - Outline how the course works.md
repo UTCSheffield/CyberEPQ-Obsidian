@@ -17,7 +17,7 @@
 ![[Pasted image 20250723094131.png]]
 
 
-N.B. This is using Obisidians Web Clippings feature.
+N.B. This is using Obisidian's Web Clippings feature.
 
 ---
 

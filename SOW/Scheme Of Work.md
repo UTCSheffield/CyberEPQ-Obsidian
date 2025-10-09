@@ -30,10 +30,10 @@
 - [ ] Week 30  7 days
 - [ ] Week 31  7 days
 - [ ] Week 32  7 days
-- [ ] Week 32  7 days 🛫 2026-06-01
-- [ ] Week 33  7 days
+- [ ] Week 33  7 days 🛫 2026-06-01
 - [ ] Week 34  7 days
 - [ ] Week 35  7 days
 - [ ] Week 36  7 days
 - [ ] Week 37  7 days
 - [ ] Week 38  7 days
+- [ ] Week 39  7 days
