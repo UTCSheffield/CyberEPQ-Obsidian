@@ -131,7 +131,7 @@ Full Project Submission :crit, milestone, 2026-03-17
 ## Planning your Written Work 
 ### study.cyberepq.org.uk
 
-* [ ] Do "Planning Your Written Work" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41553)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42101) ) 📅 2025-10-10
+* Do "Planning Your Written Work" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41553)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42101) )
 
 ---
 ## Get On With It

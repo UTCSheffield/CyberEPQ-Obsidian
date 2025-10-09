@@ -1,8 +1,8 @@
 # Lesson 3 - Referencing
 
 ![[Do Now]]
----
 
+---
 
 [CIISec](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35173)[ CyberEPQ 1 Year course 24\-25: Referencing](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35173)
 
@@ -10,7 +10,6 @@ If you have your own laptop Zotero is an excellent piece of software for recordi
 
 
 ---
-
 
 # Deadlines
 
@@ -76,51 +75,17 @@ Can I find info safely?
 
 ---
 
+## What does the project need to allow me to include?
 
-# What does the project need to allow me to include?
-
-__Identify\, design\, plan and complete __ an individual project\, applying a range of  __organisational__  skills and strategies to meet agreed objectives\.
-
-__Obtain\, critically select and use information __ from a  __range__  of sources; analyse data\, apply it appropriately and demonstrate understanding of any relevant\, connections and complexities of the topic\.
-
-Select and use a range of  __skills__ \, including new  __technologies__ \,  __solve problems__ \, take decisions critically\, creatively and flexibly\, to achieve planned outcomes\.
-
-__Evaluate__  outcomes both in relation to agreed objectives\, as well as own learning and performance\.
-
-Select and use a range of  __communication__  skills and media to present  evidenced outcomes and conclusions in an appropriate format\.
-
+![[What does the project need to allow me to include]]
 
 ---
 
-
-Identify
-
-Design
-
-Plan
-
-Complete
-
-Organisational
-
-Critically select information
-
-Use information
-
-Range of sources
-
-Analyse data
-
-Select and use a range of skills
-
-New technologies\,
-
-Solve problems
-
-Evaluate
-
-Communication
-
+```wordcloud
+source: query
+query: 'What does the project need to allow me to include'
+weight: 2
+```
 
 ---
 
