@@ -27,9 +27,9 @@ The [Level 3 Extended Project](https://www.cityandguilds.com/qualifications-and
   
 The City & Guilds Extended Project qualification carries up to 28 UCAS points that can be used towards a points offer from a university.   
 
-| Grade | A* | A  | B  | C  | D  | E |
-| ----- | ---|----|----|----|----|---|
-| UCAS  | 28 | 24 | 20 | 16 | 12 | 8 |
+| Grade | A*  |  A  |  B   |  C   | D   |  E  |
+| ----- | --- | --- | ---- | ---- | --- | --- |
+| UCAS  | 28  |  24 |  20  |  16  | 12  | 8   |
 
 
 ![[Pasted image 20250723100659.png]]

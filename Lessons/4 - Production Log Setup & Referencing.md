@@ -9,7 +9,7 @@
 
 What is an  __Academic inquiry__ for?
 
-What properties does a good __research question__  have?
+What properties does a good __research question__ have?
 
 
 ---
@@ -58,13 +58,11 @@ This will attract classcharts action from Tuesday 12th Nov
 
 # Production Log Set Up
 
-
-
 * Download the “Blank Production Log 24\-25 UTC OLP” below \.
-* <span style="color:#ff0000"> __Never edit this document online\, always edit in Desktop App\.__ </span>
+* Never edit this document online, always edit in Desktop App
 * Fill in your "Full Name" and "Candidate Number“\. These should copy onto every page\.
-* Save it with the file name format “ <span style="color:#ff0000">\[Candidate Number\] Prod Log</span> ”
-  * e\.g\.“GWP0490 Prod Log”
+* Save it with the file name format “[Candidate Number] Prod Log”
+  * e.g.“GWP0490 Prod Log”
 * Upload and submit so I can check it’s set up right\.
 
 

@@ -3,10 +3,39 @@
 ![[Do Now]]
 
 ---
+## Planning your Written Work 
+### study.cyberepq.org.uk
 
-[CIISec](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35173)[ CyberEPQ 1 Year course 24\-25: Referencing](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35173)
+* Do "Referencing" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41555)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42103) )
 
+---
+# The backbone of your project is your research
+
+Most important thing about your question / title is can you find reliable information sources about it?
+
+1. Do a search for each idea\. Can you find some info \(specific urls and sites\)\.
+
+---
+## Recording your sources of information so you can reference.
+
+### Obsidian & Obsidian Web Clipper
+[Obsidian Web Clipper - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/obsidian-web-clipper/eigdjhmgnaaeaonimdklocfekkaanfme)
+
+---
+
+### Zotero 
 If you have your own laptop Zotero is an excellent piece of software for recording research and doing citations and references with\.
+
+---
+
+### Word / Evaluation Table of Resources
+
+2. Record the things you find in an “Evaluation Table of Resources” or Zotero
+3. If using Zotero use Notes & Tags to keep track of why stuff is useful and for what idea it is connected\.
+
+
+![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_0.png)
+
 
 
 ---
