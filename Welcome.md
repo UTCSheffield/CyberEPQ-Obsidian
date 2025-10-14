@@ -30,3 +30,18 @@ harvard("The CyberEPQ")
 ```dataviewjs
 dv.taskList(dv.pages().file.tasks.where(t => !t.completed));
 ```
+
+
+
+
+---
+
+```wordcloud
+source: query
+query: 'What does the project need to allow me to include'
+weight: 2
+```
+
+
+
+

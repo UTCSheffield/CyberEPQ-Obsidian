@@ -107,8 +107,7 @@ Communication
 
 
 # Next Steps : ROIP : Your best idea
-
-![](../Images/CyberEPQ%20-%20W10%20-%20Research%20&%20ROIP%20Prep_1.png)
+![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
 
 
 ---
@@ -236,4 +235,57 @@ Can I find good information sources?
 Will the idea allow me to include everything required to do well?
 
 Can I do this safely?
+
+
+---
+
+
+# ROIP
+
+
+---
+
+
+# ROIP meetings next week and the week after
+
+ROIP due to me 15th November so we can have a meeting and come up with a completed ROIP by 22nd November \.
+
+You need to show me your ideas and research starting points\.
+
+I shall comment
+
+
+---
+
+
+# ROIP
+
+
+
+* Start your ROIP  \(Page 6 of the Production Log\) by filling in the
+  * "Your first idea for topic \(to include overall aim\)" and
+  * "Your first ideas for research and development of your project" boxes\.
+* And fill in the back up idea form as well\.
+
+---
+
+
+
+
+# SMARTER
+
+Specific \- What exactly will you do?
+
+Measurable \- how will you know you’ve succeeded?
+
+Achievable \- is it realistic?
+
+Resourced \- have you allocated enough time? Have you got enough information?
+
+Timetabled \- by when will you achieve each step?
+
+Evaluated \- keep checking if you are on track
+
+Reviewed \- sometimes changed circumstances mean a modification in the goal is necessary
+
 
