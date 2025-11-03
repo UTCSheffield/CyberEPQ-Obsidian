@@ -1,8 +1,11 @@
-<!-- QueryToSerialize: LIST regexreplace(regexreplace(regexreplace(Tasks.text,"#[\w-]+" ,""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*[\w,]*", ""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*\d{4}-\d{2}-\d{2}[0-9:\/]*", "") FROM "/" WHERE file.tasks FLATTEN file.tasks AS Tasks WHERE Tasks.due  WHERE !Task.completed  SORT Tasks.due LIMIT 3 -->
-<!-- SerializedQuery: LIST regexreplace(regexreplace(regexreplace(Tasks.text,"#[\w-]+" ,""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*[\w,]*", ""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*\d{4}-\d{2}-\d{2}[0-9:\/]*", "") FROM "/" WHERE file.tasks FLATTEN file.tasks AS Tasks WHERE Tasks.due  WHERE !Task.completed  SORT Tasks.due LIMIT 3 -->
-- [[3 - Referencing]]: Do "Referencing" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41555)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42103) ) 📅 2025-10-14
-- [[Modules June Start]]: Specialist Module  14 days 📅 2025-11-16
-- [[Planning/1 Year/Modules.md|Modules]]: Specialist Module 7 days  📅 2025-11-16
+<!-- QueryToSerialize: LIST regexreplace(regexreplace(regexreplace(Tasks.text,"#[\w-]+" ,""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*[\w,]*", ""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*\d{4}-\d{2}-\d{2}[0-9:\/]*", "") FROM "/" WHERE file.tasks FLATTEN file.tasks AS Tasks WHERE Tasks.due  WHERE !Task.completed  SORT Tasks.due LIMIT 6 -->
+<!-- SerializedQuery: LIST regexreplace(regexreplace(regexreplace(Tasks.text,"#[\w-]+" ,""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*[\w,]*", ""), "(?:\p{Emoji_Presentation}|[\u2600-\u27BF])\s*\d{4}-\d{2}-\d{2}[0-9:\/]*", "") FROM "/" WHERE file.tasks FLATTEN file.tasks AS Tasks WHERE Tasks.due  WHERE !Task.completed  SORT Tasks.due LIMIT 6 -->
+- [[Planning/1 Year/Modules.md|Modules]]: Module 3 7 days 📅 2025-10-19
+- [[Planning/1 Year/Modules.md|Modules]]: Module 4 7 days 📅 2025-10-26
+- [[Planning/Extended A/Modules.md|Modules]]: Module 2  14 days 📅 2025-10-26
+- [[Planning/1 Year/Modules.md|Modules]]: Module 5 7 days 📅 2025-11-02
+- [[Planning/1 Year/Modules.md|Modules]]: Module 6 7 days 📅 2025-11-02
+- [[Planning/1 Year/Modules.md|Modules]]: Module 7 7 days 📅 2025-11-02
 <!-- SerializedQuery END -->
 
 <!--

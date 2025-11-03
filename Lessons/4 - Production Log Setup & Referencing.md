@@ -12,72 +12,12 @@ What is an __Academic inquiry__ for?
 What properties does a good __research question__ have?
 
 ---
-<!--
 
-# Deadlines
-
-Module 4 was due on Saturday October 12th
-
-This will attract classcharts action from Saturday 19th
-
-Module 5 is due on Friday October 18th
-
-This will attract classcharts action from Friday 25th
-
-Module 6 is due on Thursday October 24th
-
-This will attract classcharts action from Thursday 31st
-
-Module 7 is due on Wednesday October 30th
-
-This will attract classcharts action from Wednesday 6th Nov
-
-Module 8 is due on Tuesday November 5th
-
-This is just after Half Term\.
-
-This will attract classcharts action from Tuesday 12th Nov
+# Production Log Set Up : Production Log Upload
 
 
----
-
-
-* I'm going to try and keep it so the deadlines I set will give you room to be a week late\, and not fall foul of CIISec’s super strict deadlines\.
-  * You will always get a classcharts “Missed Deadline” at a week late for all deadlines\. For Modules this will not recur\, but it will for all other tasks\.
-* But for the following Assignments\, being late can get you thrown off the course\, so there are extra motivations\. \(They are marked “:CIISec Deadline” in Teams\)
-* “Project Proposal A\, B & Plan” & “Full Project Submission” = 1 classcharts “Missed Deadline” each day over the week
-* “PPA Resubmission” We usually get 48 hours\, so I will give you 24 hours with a  classcharts “Missed Deadline” if it’s late\)
----
--->
-
-# Production Log Set Up
-
-* Download the “Blank Production Log 25-26 UTC OLP” below .
-* Never edit this document online, always edit in Desktop App
-* Fill in your "Full Name" and "Candidate Number“\. These should copy onto every page\.
-* Save it with the file name format “[Candidate Number] Prod Log”
-  * e.g.“GWP0490 Prod Log”
-* Upload and submit so I can check it’s set up right.
-
-
-![](../Images/CyberEPQ%20-%20W07%20-%20Production%20Log%20Setup%20%&20Referencing_0.png)
-
-
----
-
-
-# Candidate Numbers
-
-
----
-
-
-# Production Log Set Up
-
-
-
-* Download the “Blank Production Log 24\-25 UTC OLP”\.
-* __Never edit this document online\, always edit in Desktop App.
+* Download the “Blank Production Log 25-26 UTC OLP.docx”.
+* Never edit this document online, always edit in Desktop App.
 * Fill in your "Full Name" and "Candidate Number“. These should copy onto every page\.
 * Save it with the file name format “[Candidate Number] Prod Log”
   * e.g.“GWP0490 Prod Log”
@@ -88,51 +28,49 @@ This will attract classcharts action from Tuesday 12th Nov
 
 
 ---
+# Candidate Numbers
 
-
-# CyberEPQ
-
-# Referencing
-
-
----
-
-
-[CIISec](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35173)[ CyberEPQ 1 Year course 24\-25: Referencing](https://study.cyberepq.org.uk/mod/scorm/view.php?id=35173)
-
-If you have your own laptop Zotero is an excellent piece of software for recording research and doing citations and references with\.
-
-
----
-
-
-# Employer Links : CIISec
-
-<span style="color:#242424">‘Applying for Higher Education'\, the first webinar is our new Student Webinar Series\. On Wednesday 16</span>  <span style="color:#242424">th</span>  <span style="color:#242424"> October at 4:30pm</span>
-
-<span style="color:#242424"> Please register your attendance using this link: </span>  <span style="color:#0563c1">[https://events\.teams\.microsoft\.com/event/98ca4d3b\-20c5\-4120\-a6b4\-0128aa144824@97def89f\-bf05\-4974\-9c48\-c6c386c94220](https://events.teams.microsoft.com/event/98ca4d3b-20c5-4120-a6b4-0128aa144824@97def89f-bf05-4974-9c48-c6c386c94220)</span>
-
-Also :
-
-I’m going to CIISec live this year\. [CIISec](https://www.ciisec.live/)[ LIVE 2024 | Bristol | November 26\, 2024](https://www.ciisec.live/) have a look at the schedule and see if there is anything or anybody interesting \(there are 3 of us going we can try and ask questions etc\.\)
-
+|         |          |                |
+| ------- | -------- | -------------- |
+| SZJ1514 | Abdullah | Abdelguerfi    |
+| SZJ1404 | Saiful   | Ali            |
+| SZJ1294 | Rayyan   | Ahmed          |
+| SZJ1184 | Samuel   | Bray           |
+| SZJ1074 | Alistair | Cox            |
+| SZJ0994 | Max      | Dawson         |
+| SZJ0884 | Daud     | Ibrahim        |
+| SZJ0774 | Finley   | Sargeson       |
+| SZJ0664 | Joshua   | Thom           |
+| SZJ0554 | Joshua   | Talbot-Sheerin |
+| SZJ0444 | Muhammed | Al-Wareeth     |
+| SZJ0034 | Adyan    | Chowdhury      |
+| SZJ0224 | Rayyan   | Chowdhury      |
+| SZJ0114 | Loai     | Shabi          |
+| SZI9997 | Yaqoob   | Faraj          |
 
 ---
 
+# Production Log Set Up : Production Log Upload
 
-# SMARTER Targets
 
-Specific \- What exactly will you do?
+* Download the “Blank Production Log 25-26 UTC OLP.docx”.
+* Never edit this document online, always edit in Desktop App.
+* Fill in your "Full Name" and "Candidate Number“. These should copy onto every page\.
+* Save it with the file name format “[Candidate Number] Prod Log”
+  * e.g.“GWP0490 Prod Log”
+* Upload and submit so I can check it’s set up right\.
 
-Measurable \- How will you know you’ve succeeded?
 
-Achievable \- Is it realistic?
+![](../Images/CyberEPQ%20-%20W07%20-%20Production%20Log%20Setup%20&%20Referencing_1.png)
 
-Resourced \- Have you allocated enough time? Have you got enough information?
 
-Timetabled \- By when will you achieve each step?
+---
+## Get On With It
 
-Evaluated \- Keep checking if you are on track
+![[Upcoming Tasks]]
 
-Reviewed \- Sometimes changed circumstances mean a modification in the goal is necessary
+---
 
+# If you have finished the Modules ?
+
+![[ROIP Brainstorming]]

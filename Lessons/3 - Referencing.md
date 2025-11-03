@@ -6,7 +6,7 @@
 ## Referencing
 ### study.cyberepq.org.uk
 
-* [ ] Do "Referencing" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41555)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42103) ) 📅 2025-10-14
+*  Do "Referencing" / On the “Project Writing Assistance" page ( [1 Year](https://study.cyberepq.org.uk/mod/scorm/view.php?id=41555)  or [Extended](https://study.cyberepq.org.uk/mod/scorm/view.php?id=42103) )
 
 ---
 ## Recording your sources of information so you can reference.

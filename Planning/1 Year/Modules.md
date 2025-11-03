@@ -2,14 +2,14 @@
 tags:
   - gantt
 ---
-- [ ] Module 0 ⏳2025-09-27 7 days
-- [ ] Module 1 ⏳2025-09-27  7 days 
-- [ ] Module 2 7 days
-- [ ] Module 3 7 days
-- [ ] Module 4 7 days
-- [ ] Module 5 7 days ⏳ 2025-10-25
-- [ ] Module 6 7 days ⏳ 2025-10-25
-- [ ] Module 7 7 days ⏳ 2025-10-25
+- [x] Module 0 ⏳2025-09-27 7 days ✅ 2025-10-20
+- [x] Module 1 ⏳2025-09-27  7 days ✅ 2025-10-20
+- [x] Module 2 7 days ✅ 2025-10-20
+- [ ] Module 3 7 days 📅 2025-10-19
+- [ ] Module 4 7 days 📅 2025-10-26
+- [ ] Module 5 7 days 📅 2025-11-02
+- [ ] Module 6 7 days 📅 2025-11-02
+- [ ] Module 7 7 days 📅 2025-11-02
 - [ ] Module 8 7 days
 - [ ] Specialist Module 7 days  📅 2025-11-16
 - [ ] Overall Journal Reflection 21 days 

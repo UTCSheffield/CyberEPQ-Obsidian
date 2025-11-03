@@ -3105,63 +3105,15 @@
         ],
         "Planning/Extended A/Modules.md": [
             {
-                "id": 2929207493,
+                "id": 236625577,
                 "status": " ",
-                "title": "Module 0  7 days ⏳ 2025-09-27",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "2025-09-27",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Planning/Extended A/Modules.md",
-                "taskLocation": {
-                    "startLine": 6,
-                    "startCharIndex": 0,
-                    "endLine": 6,
-                    "endCharIndex": 35
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 3837892976,
-                "status": " ",
-                "title": "Module 1  14 days ⏳ 2025-09-27",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "2025-09-27",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Planning/Extended A/Modules.md",
-                "taskLocation": {
-                    "startLine": 7,
-                    "startCharIndex": 0,
-                    "endLine": 7,
-                    "endCharIndex": 36
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 4264210633,
-                "status": " ",
-                "title": "Module 2  14 days",
+                "title": "Module 2  14 days 📅 2025-10-26",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
                 "scheduledDate": "",
-                "due": "",
+                "due": "2025-10-26",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3170,22 +3122,22 @@
                     "startLine": 8,
                     "startCharIndex": 0,
                     "endLine": 8,
-                    "endCharIndex": 23
+                    "endCharIndex": 37
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1342136510,
+                "id": 1394199765,
                 "status": " ",
-                "title": "Module 3  14 days",
+                "title": "Module 3  14 days 📅 2025-11-09",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
                 "scheduledDate": "",
-                "due": "",
+                "due": "2025-11-09",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3194,22 +3146,22 @@
                     "startLine": 9,
                     "startCharIndex": 0,
                     "endLine": 9,
-                    "endCharIndex": 23
+                    "endCharIndex": 37
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3373727513,
+                "id": 3440191611,
                 "status": " ",
-                "title": "Module 4  ⏳ 2025-10-25 14 days ",
+                "title": "Module 4  ⏳ 2025-10-25 14 days 📅 2025-11-09",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
                 "scheduledDate": "2025-10-25",
-                "due": "",
+                "due": "2025-11-09",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3218,14 +3170,14 @@
                     "startLine": 10,
                     "startCharIndex": 0,
                     "endLine": 10,
-                    "endCharIndex": 37
+                    "endCharIndex": 50
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 4029114865,
+                "id": 2038829133,
                 "status": " ",
                 "title": "Module 5  14 days",
                 "body": [],
@@ -3249,7 +3201,7 @@
                 "reminder": ""
             },
             {
-                "id": 4127456486,
+                "id": 411751406,
                 "status": " ",
                 "title": "Module 6   14 days",
                 "body": [],
@@ -3273,7 +3225,7 @@
                 "reminder": ""
             },
             {
-                "id": 1579527045,
+                "id": 983146591,
                 "status": " ",
                 "title": "Module 7   14 days",
                 "body": [],
@@ -3297,7 +3249,7 @@
                 "reminder": ""
             },
             {
-                "id": 90036562,
+                "id": 240403806,
                 "status": " ",
                 "title": "Module 8  14 days",
                 "body": [],
@@ -3321,7 +3273,7 @@
                 "reminder": ""
             },
             {
-                "id": 1535513478,
+                "id": 3587640830,
                 "status": " ",
                 "title": "Specialist Module  14 days ⏳ 2025-12-25 📅 2026-01-04",
                 "body": [],
@@ -3735,87 +3687,15 @@
         ],
         "Planning/1 Year/Modules.md": [
             {
-                "id": 3319190048,
+                "id": 1593488367,
                 "status": " ",
-                "title": "Module 0 ⏳2025-09-27 7 days",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "2025-09-27",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Planning/1 Year/Modules.md",
-                "taskLocation": {
-                    "startLine": 5,
-                    "startCharIndex": 0,
-                    "endLine": 5,
-                    "endCharIndex": 33
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 4085515972,
-                "status": " ",
-                "title": "Module 1 ⏳2025-09-27  7 days ",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "2025-09-27",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Planning/1 Year/Modules.md",
-                "taskLocation": {
-                    "startLine": 6,
-                    "startCharIndex": 0,
-                    "endLine": 6,
-                    "endCharIndex": 35
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 3647485300,
-                "status": " ",
-                "title": "Module 2 7 days",
+                "title": "Module 3 7 days 📅 2025-10-19",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
                 "scheduledDate": "",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Planning/1 Year/Modules.md",
-                "taskLocation": {
-                    "startLine": 7,
-                    "startCharIndex": 0,
-                    "endLine": 7,
-                    "endCharIndex": 21
-                },
-                "completion": "",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 1495870034,
-                "status": " ",
-                "title": "Module 3 7 days",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "",
-                "due": "",
+                "due": "2025-10-19",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3824,22 +3704,22 @@
                     "startLine": 8,
                     "startCharIndex": 0,
                     "endLine": 8,
-                    "endCharIndex": 21
+                    "endCharIndex": 35
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1801431370,
+                "id": 1494556746,
                 "status": " ",
-                "title": "Module 4 7 days",
+                "title": "Module 4 7 days 📅 2025-10-26",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
                 "scheduledDate": "",
-                "due": "",
+                "due": "2025-10-26",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3848,22 +3728,22 @@
                     "startLine": 9,
                     "startCharIndex": 0,
                     "endLine": 9,
-                    "endCharIndex": 21
+                    "endCharIndex": 35
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 342485598,
+                "id": 1403846405,
                 "status": " ",
-                "title": "Module 5 7 days ⏳ 2025-10-25",
+                "title": "Module 5 7 days 📅 2025-11-02",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
-                "scheduledDate": "2025-10-25",
-                "due": "",
+                "scheduledDate": "",
+                "due": "2025-11-02",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3872,22 +3752,22 @@
                     "startLine": 10,
                     "startCharIndex": 0,
                     "endLine": 10,
-                    "endCharIndex": 34
+                    "endCharIndex": 35
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 426244735,
+                "id": 4204766811,
                 "status": " ",
-                "title": "Module 6 7 days ⏳ 2025-10-25",
+                "title": "Module 6 7 days 📅 2025-11-02",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
-                "scheduledDate": "2025-10-25",
-                "due": "",
+                "scheduledDate": "",
+                "due": "2025-11-02",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3896,22 +3776,22 @@
                     "startLine": 11,
                     "startCharIndex": 0,
                     "endLine": 11,
-                    "endCharIndex": 34
+                    "endCharIndex": 35
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3722806465,
+                "id": 2301990967,
                 "status": " ",
-                "title": "Module 7 7 days ⏳ 2025-10-25",
+                "title": "Module 7 7 days 📅 2025-11-02",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
-                "scheduledDate": "2025-10-25",
-                "due": "",
+                "scheduledDate": "",
+                "due": "2025-11-02",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
@@ -3920,14 +3800,14 @@
                     "startLine": 12,
                     "startCharIndex": 0,
                     "endLine": 12,
-                    "endCharIndex": 34
+                    "endCharIndex": 35
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2299420875,
+                "id": 1078237270,
                 "status": " ",
                 "title": "Module 8 7 days",
                 "body": [],
@@ -3951,7 +3831,7 @@
                 "reminder": ""
             },
             {
-                "id": 1791836258,
+                "id": 1200485929,
                 "status": " ",
                 "title": "Specialist Module 7 days  📅 2025-11-16",
                 "body": [],
@@ -3975,7 +3855,7 @@
                 "reminder": ""
             },
             {
-                "id": 480287275,
+                "id": 2354713794,
                 "status": " ",
                 "title": "Overall Journal Reflection 21 days ",
                 "body": [],
@@ -4266,5 +4146,130 @@
             }
         ]
     },
-    "Completed": {}
+    "Completed": {
+        "Planning/Extended A/Modules.md": [
+            {
+                "id": 2784284607,
+                "status": "x",
+                "title": "Module 0  7 days ⏳ 2025-09-27 ✅ 2025-10-20",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-09-27",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/Extended A/Modules.md",
+                "taskLocation": {
+                    "startLine": 6,
+                    "startCharIndex": 0,
+                    "endLine": 6,
+                    "endCharIndex": 48
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 2955358905,
+                "status": "x",
+                "title": "Module 1  14 days ⏳ 2025-09-27 ✅ 2025-10-20",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-09-27",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/Extended A/Modules.md",
+                "taskLocation": {
+                    "startLine": 7,
+                    "startCharIndex": 0,
+                    "endLine": 7,
+                    "endCharIndex": 49
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Planning/1 Year/Modules.md": [
+            {
+                "id": 4269153230,
+                "status": "x",
+                "title": "Module 0 ⏳2025-09-27 7 days ✅ 2025-10-20",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-09-27",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/1 Year/Modules.md",
+                "taskLocation": {
+                    "startLine": 5,
+                    "startCharIndex": 0,
+                    "endLine": 5,
+                    "endCharIndex": 46
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 2947533431,
+                "status": "x",
+                "title": "Module 1 ⏳2025-09-27  7 days ✅ 2025-10-20",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-09-27",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/1 Year/Modules.md",
+                "taskLocation": {
+                    "startLine": 6,
+                    "startCharIndex": 0,
+                    "endLine": 6,
+                    "endCharIndex": 47
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 4163334286,
+                "status": "x",
+                "title": "Module 2 7 days ✅ 2025-10-20",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/1 Year/Modules.md",
+                "taskLocation": {
+                    "startLine": 7,
+                    "startCharIndex": 0,
+                    "endLine": 7,
+                    "endCharIndex": 34
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ]
+    }
 }

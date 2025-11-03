@@ -13,8 +13,8 @@
 
 * All my deadlines (including those for Modules) will be in Class Charts & Teams.
 * CIISec Manage the course and their deadlines get tight towards the end & I usually have marking / feedback to do before their deadline.
-* We will start with standard OLP 6th Form "Missed Deadlines Policy" in Computing. 
-	* A Class Charts "Missed Deadline" will be marked 7 days after my deadline
+* We will start with the standard OLP 6th Form "Missed Deadlines Policy". 
+	* A Class Charts "Missed Deadline" will be marked 7 days after the deadline.
 	* But this will shorten to 1 day towards the end of the course.
 
 * You are committed to 4 hours a week (inc. 1 hour with me)
