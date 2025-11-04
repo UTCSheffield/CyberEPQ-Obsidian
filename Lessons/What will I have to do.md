@@ -1,7 +1,6 @@
 ## What will I have to do?
 
 An investigation into a cyber security related topic of your choice.
-
 ### Outputs :
 - Production Log / forms for all the stages of the project
 - Gantt Chart / Planning documentation

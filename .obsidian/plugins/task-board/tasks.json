@@ -1164,7 +1164,7 @@
         ],
         "SOW/Scheme Of Work.md": [
             {
-                "id": 1650129469,
+                "id": 15342454,
                 "status": " ",
                 "title": "Week 1 No Mon  🛫 2025-09-01 7 days",
                 "body": [],
@@ -1188,7 +1188,7 @@
                 "reminder": ""
             },
             {
-                "id": 4083848131,
+                "id": 1182580808,
                 "status": " ",
                 "title": "Week 2 7 days",
                 "body": [],
@@ -1212,7 +1212,7 @@
                 "reminder": ""
             },
             {
-                "id": 2966943214,
+                "id": 3971922403,
                 "status": " ",
                 "title": "Week 3 7 days",
                 "body": [],
@@ -1236,7 +1236,7 @@
                 "reminder": ""
             },
             {
-                "id": 3303697514,
+                "id": 2233936982,
                 "status": " ",
                 "title": "Week 4  7 days",
                 "body": [],
@@ -1260,7 +1260,7 @@
                 "reminder": ""
             },
             {
-                "id": 699082606,
+                "id": 1961204106,
                 "status": " ",
                 "title": "Week 5 [[1 - Outline how the course works]]  7 days",
                 "body": [],
@@ -1284,7 +1284,7 @@
                 "reminder": ""
             },
             {
-                "id": 1593690813,
+                "id": 2730367475,
                 "status": " ",
                 "title": "Week 6 [[2 - Planning Your Written Work]]  7 days",
                 "body": [],
@@ -1308,9 +1308,9 @@
                 "reminder": ""
             },
             {
-                "id": 1408021182,
+                "id": 2560402993,
                 "status": " ",
-                "title": "Week 7 [[3 - Referencing]]  7 days",
+                "title": "Week 7 [[3 - Referencing]] 7 days",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -1325,16 +1325,16 @@
                     "startLine": 7,
                     "startCharIndex": 0,
                     "endLine": 7,
-                    "endCharIndex": 40
+                    "endCharIndex": 39
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 4050378839,
+                "id": 2053459434,
                 "status": " ",
-                "title": "Week 8 [[4 - Production Log Setup & Referencing]] No Wed-Fri 7 days",
+                "title": "Week 8 [[4 - Production Log Setup & ROIP]] No Wed-Fri 7 days",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -1349,16 +1349,16 @@
                     "startLine": 8,
                     "startCharIndex": 0,
                     "endLine": 8,
-                    "endCharIndex": 73
+                    "endCharIndex": 66
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1494692038,
+                "id": 811727111,
                 "status": " ",
-                "title": "Week 9 [[5 - Research & ROIP Prep]]  🛫 2025-11-03 7 days",
+                "title": "Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2025-11-03 7 days",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -1373,16 +1373,16 @@
                     "startLine": 9,
                     "startCharIndex": 0,
                     "endLine": 9,
-                    "endCharIndex": 63
+                    "endCharIndex": 69
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3881330118,
+                "id": 2511462668,
                 "status": " ",
-                "title": "Week 10 [[6 - ROIP & Meetings]] 7 days",
+                "title": "Week 10 [[5 - Research & ROIP Prep]] 7 days",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -1397,16 +1397,16 @@
                     "startLine": 10,
                     "startCharIndex": 0,
                     "endLine": 10,
-                    "endCharIndex": 44
+                    "endCharIndex": 49
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2112454354,
+                "id": 1226188649,
                 "status": " ",
-                "title": "Week 11 [[7 - PPA Draft & Planning]] 7 days",
+                "title": "Week 11 [[6 - ROIP & Meetings]] 7 days",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -1421,16 +1421,16 @@
                     "startLine": 11,
                     "startCharIndex": 0,
                     "endLine": 11,
-                    "endCharIndex": 49
+                    "endCharIndex": 44
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3472386831,
+                "id": 310056104,
                 "status": " ",
-                "title": "Week 12  7 days",
+                "title": "Week 12 [[7 - PPA Draft & Planning]] 7 days",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -1445,14 +1445,14 @@
                     "startLine": 12,
                     "startCharIndex": 0,
                     "endLine": 12,
-                    "endCharIndex": 21
+                    "endCharIndex": 49
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 4171099766,
+                "id": 605415340,
                 "status": " ",
                 "title": "Week 13 [[8 - PPB Meetings]] 7 days",
                 "body": [],
@@ -1476,7 +1476,7 @@
                 "reminder": ""
             },
             {
-                "id": 3040197550,
+                "id": 373016528,
                 "status": " ",
                 "title": "Week 14 [[9 - Get On With It]] 7 days",
                 "body": [],
@@ -1500,7 +1500,7 @@
                 "reminder": ""
             },
             {
-                "id": 2072041613,
+                "id": 950789033,
                 "status": " ",
                 "title": "Week 15  7 days",
                 "body": [],
@@ -1524,7 +1524,7 @@
                 "reminder": ""
             },
             {
-                "id": 3890446773,
+                "id": 2102224501,
                 "status": " ",
                 "title": "Week 16  [[5 - Research & ROIP Prep]] 🛫 2026-01-05 7 days",
                 "body": [],
@@ -1548,7 +1548,7 @@
                 "reminder": ""
             },
             {
-                "id": 154519936,
+                "id": 914332260,
                 "status": " ",
                 "title": "Week 17 [[10 - Planning Review]] [[6 - ROIP & Meetings]] 7 days",
                 "body": [],
@@ -1572,7 +1572,7 @@
                 "reminder": ""
             },
             {
-                "id": 743976428,
+                "id": 2757245884,
                 "status": " ",
                 "title": "Week 18 [[11 - Essay Writing Activity 1]] 7 days",
                 "body": [],
@@ -1596,7 +1596,7 @@
                 "reminder": ""
             },
             {
-                "id": 1112948149,
+                "id": 2045104098,
                 "status": " ",
                 "title": "Week 19 [[12 - Essay Planning]] [[7 - PPA Draft & Planning]] 7 days",
                 "body": [],
@@ -1620,7 +1620,7 @@
                 "reminder": ""
             },
             {
-                "id": 2914728084,
+                "id": 2770429203,
                 "status": " ",
                 "title": "Week 20 [[13 - Mid Project Review & Essay Writing]] 7 days",
                 "body": [],
@@ -1644,7 +1644,7 @@
                 "reminder": ""
             },
             {
-                "id": 746641488,
+                "id": 3349813354,
                 "status": " ",
                 "title": "Week 21 [[14 - Presentation Planning]] 7 days",
                 "body": [],
@@ -1668,7 +1668,7 @@
                 "reminder": ""
             },
             {
-                "id": 2031674122,
+                "id": 1094839410,
                 "status": " ",
                 "title": "Week 22 [[15 - Presentation Planning]] [[8 - PPB Meetings]]  🛫 2026-02-23 7 days",
                 "body": [],
@@ -1692,7 +1692,7 @@
                 "reminder": ""
             },
             {
-                "id": 721207932,
+                "id": 474976835,
                 "status": " ",
                 "title": "Week 23 [[16 - Presentations]] [[9 - Get On With It]] 7 days",
                 "body": [],
@@ -1716,7 +1716,7 @@
                 "reminder": ""
             },
             {
-                "id": 4141358037,
+                "id": 147277986,
                 "status": " ",
                 "title": "Week 24  7 days",
                 "body": [],
@@ -1740,7 +1740,7 @@
                 "reminder": ""
             },
             {
-                "id": 444819818,
+                "id": 1621365885,
                 "status": " ",
                 "title": "Week 25  [[10 - Planning Review]] 7 days",
                 "body": [],
@@ -1764,7 +1764,7 @@
                 "reminder": ""
             },
             {
-                "id": 1331480939,
+                "id": 1565732953,
                 "status": " ",
                 "title": "Week 26  7 days",
                 "body": [],
@@ -1788,7 +1788,7 @@
                 "reminder": ""
             },
             {
-                "id": 1628604831,
+                "id": 2428888215,
                 "status": " ",
                 "title": "Week 27  7 days 🛫 2026-04-13",
                 "body": [],
@@ -1812,7 +1812,7 @@
                 "reminder": ""
             },
             {
-                "id": 480618891,
+                "id": 636914494,
                 "status": " ",
                 "title": "Week 28  7 days",
                 "body": [],
@@ -1836,7 +1836,7 @@
                 "reminder": ""
             },
             {
-                "id": 221079063,
+                "id": 1524639518,
                 "status": " ",
                 "title": "Week 29  7 days",
                 "body": [],
@@ -1860,7 +1860,7 @@
                 "reminder": ""
             },
             {
-                "id": 1313972348,
+                "id": 1812007573,
                 "status": " ",
                 "title": "Week 30  7 days",
                 "body": [],
@@ -1884,7 +1884,7 @@
                 "reminder": ""
             },
             {
-                "id": 1066780896,
+                "id": 804984862,
                 "status": " ",
                 "title": "Week 31  7 days",
                 "body": [],
@@ -1908,7 +1908,7 @@
                 "reminder": ""
             },
             {
-                "id": 363818981,
+                "id": 1916451834,
                 "status": " ",
                 "title": "Week 32  7 days",
                 "body": [],
@@ -1932,7 +1932,7 @@
                 "reminder": ""
             },
             {
-                "id": 3158534461,
+                "id": 2802215337,
                 "status": " ",
                 "title": "Week 33  7 days 🛫 2026-06-01",
                 "body": [],
@@ -1956,7 +1956,7 @@
                 "reminder": ""
             },
             {
-                "id": 3661896634,
+                "id": 391293247,
                 "status": " ",
                 "title": "Week 34  7 days",
                 "body": [],
@@ -1980,7 +1980,7 @@
                 "reminder": ""
             },
             {
-                "id": 906850551,
+                "id": 1804098959,
                 "status": " ",
                 "title": "Week 35  7 days",
                 "body": [],
@@ -2004,7 +2004,7 @@
                 "reminder": ""
             },
             {
-                "id": 2090958762,
+                "id": 474943726,
                 "status": " ",
                 "title": "Week 36  7 days",
                 "body": [],
@@ -2028,7 +2028,7 @@
                 "reminder": ""
             },
             {
-                "id": 1527946586,
+                "id": 2774679399,
                 "status": " ",
                 "title": "Week 37  7 days",
                 "body": [],
@@ -2052,7 +2052,7 @@
                 "reminder": ""
             },
             {
-                "id": 730918013,
+                "id": 3545509510,
                 "status": " ",
                 "title": "Week 38  7 days",
                 "body": [],
@@ -2076,7 +2076,7 @@
                 "reminder": ""
             },
             {
-                "id": 1711201023,
+                "id": 621151350,
                 "status": " ",
                 "title": "Week 39  7 days",
                 "body": [],
@@ -2959,9 +2959,9 @@
         ],
         "Planning/1 Year/Planning Tasks.md": [
             {
-                "id": 1664599509,
+                "id": 3317929060,
                 "status": " ",
-                "title": "Research 14 days ⏳ 2025-11-10",
+                "title": "Research 14 days ⏳ 2025-11-10\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -2976,16 +2976,16 @@
                     "startLine": 1,
                     "startCharIndex": 0,
                     "endLine": 1,
-                    "endCharIndex": 35
+                    "endCharIndex": 36
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 697641116,
+                "id": 2442724838,
                 "status": " ",
-                "title": "Record of Initial Planning 7 days ⏳ 2025-11-15 📅 2025-11-21",
+                "title": "Record of Initial Planning 7 days ⏳ 2025-11-15 📅 2025-11-21\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3000,16 +3000,16 @@
                     "startLine": 2,
                     "startCharIndex": 0,
                     "endLine": 2,
-                    "endCharIndex": 66
+                    "endCharIndex": 67
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 612050771,
+                "id": 330270373,
                 "status": " ",
-                "title": "Draft Project Proposal A & Plan 7 days 🆔 zzs98s",
+                "title": "Draft Project Proposal A & Plan 7 days 🆔 zzs98s\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3024,16 +3024,16 @@
                     "startLine": 3,
                     "startCharIndex": 0,
                     "endLine": 3,
-                    "endCharIndex": 54
+                    "endCharIndex": 55
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2963424934,
+                "id": 2943776912,
                 "status": " ",
-                "title": "Project Proposal A & Plan 7 days 🆔 nv1bir ⛔ zzs98s",
+                "title": "Project Proposal A & Plan 7 days 🆔 nv1bir ⛔ zzs98s\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3048,16 +3048,16 @@
                     "startLine": 4,
                     "startCharIndex": 0,
                     "endLine": 4,
-                    "endCharIndex": 57
+                    "endCharIndex": 58
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3013226283,
+                "id": 1567341818,
                 "status": " ",
-                "title": "Project Proposal A & Plan - Submission ⛔ lcuy5s 📅 2025-12-12",
+                "title": "Project Proposal A & Plan - Submission ⛔ lcuy5s 📅 2025-12-12\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3072,16 +3072,16 @@
                     "startLine": 5,
                     "startCharIndex": 0,
                     "endLine": 5,
-                    "endCharIndex": 67
+                    "endCharIndex": 68
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3845768883,
+                "id": 2908546733,
                 "status": " ",
-                "title": "Project Proposal approvals (PPC) to schools 📅 2026-01-09",
+                "title": "Project Proposal approvals (PPC) to schools 📅 2026-01-09\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3096,7 +3096,7 @@
                     "startLine": 6,
                     "startCharIndex": 0,
                     "endLine": 6,
-                    "endCharIndex": 63
+                    "endCharIndex": 64
                 },
                 "completion": "",
                 "cancelledDate": "",
@@ -3105,9 +3105,9 @@
         ],
         "Planning/Extended A/Modules.md": [
             {
-                "id": 236625577,
+                "id": 2854363143,
                 "status": " ",
-                "title": "Module 2  14 days 📅 2025-10-26",
+                "title": "Module 2  14 days 📅 2025-10-26\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3122,16 +3122,16 @@
                     "startLine": 8,
                     "startCharIndex": 0,
                     "endLine": 8,
-                    "endCharIndex": 37
+                    "endCharIndex": 38
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1394199765,
+                "id": 1422704979,
                 "status": " ",
-                "title": "Module 3  14 days 📅 2025-11-09",
+                "title": "Module 3  14 days 📅 2025-11-09\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3146,16 +3146,16 @@
                     "startLine": 9,
                     "startCharIndex": 0,
                     "endLine": 9,
-                    "endCharIndex": 37
+                    "endCharIndex": 38
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3440191611,
+                "id": 4135245564,
                 "status": " ",
-                "title": "Module 4  ⏳ 2025-10-25 14 days 📅 2025-11-09",
+                "title": "Module 4  ⏳ 2025-10-25 14 days 📅 2025-11-09\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3170,16 +3170,16 @@
                     "startLine": 10,
                     "startCharIndex": 0,
                     "endLine": 10,
-                    "endCharIndex": 50
+                    "endCharIndex": 51
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2038829133,
+                "id": 690003598,
                 "status": " ",
-                "title": "Module 5  14 days",
+                "title": "Module 5  14 days\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3194,16 +3194,16 @@
                     "startLine": 11,
                     "startCharIndex": 0,
                     "endLine": 11,
-                    "endCharIndex": 23
+                    "endCharIndex": 24
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 411751406,
+                "id": 3189053837,
                 "status": " ",
-                "title": "Module 6   14 days",
+                "title": "Module 6   14 days\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3218,16 +3218,16 @@
                     "startLine": 12,
                     "startCharIndex": 0,
                     "endLine": 12,
-                    "endCharIndex": 24
+                    "endCharIndex": 25
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 983146591,
+                "id": 1272173755,
                 "status": " ",
-                "title": "Module 7   14 days",
+                "title": "Module 7   14 days\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3242,16 +3242,16 @@
                     "startLine": 13,
                     "startCharIndex": 0,
                     "endLine": 13,
-                    "endCharIndex": 24
+                    "endCharIndex": 25
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 240403806,
+                "id": 1896953725,
                 "status": " ",
-                "title": "Module 8  14 days",
+                "title": "Module 8  14 days\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3266,14 +3266,14 @@
                     "startLine": 14,
                     "startCharIndex": 0,
                     "endLine": 14,
-                    "endCharIndex": 23
+                    "endCharIndex": 24
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 3587640830,
+                "id": 3693639150,
                 "status": " ",
                 "title": "Specialist Module  14 days ⏳ 2025-12-25 📅 2026-01-04",
                 "body": [],
@@ -3687,9 +3687,9 @@
         ],
         "Planning/1 Year/Modules.md": [
             {
-                "id": 1593488367,
+                "id": 557996746,
                 "status": " ",
-                "title": "Module 3 7 days 📅 2025-10-19",
+                "title": "Module 3 7 days 📅 2025-10-19\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3704,16 +3704,16 @@
                     "startLine": 8,
                     "startCharIndex": 0,
                     "endLine": 8,
-                    "endCharIndex": 35
+                    "endCharIndex": 36
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1494556746,
+                "id": 280528893,
                 "status": " ",
-                "title": "Module 4 7 days 📅 2025-10-26",
+                "title": "Module 4 7 days 📅 2025-10-26\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3728,16 +3728,16 @@
                     "startLine": 9,
                     "startCharIndex": 0,
                     "endLine": 9,
-                    "endCharIndex": 35
+                    "endCharIndex": 36
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1403846405,
+                "id": 3453903767,
                 "status": " ",
-                "title": "Module 5 7 days 📅 2025-11-02",
+                "title": "Module 5 7 days 📅 2025-11-02\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3752,16 +3752,16 @@
                     "startLine": 10,
                     "startCharIndex": 0,
                     "endLine": 10,
-                    "endCharIndex": 35
+                    "endCharIndex": 36
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 4204766811,
+                "id": 3912164046,
                 "status": " ",
-                "title": "Module 6 7 days 📅 2025-11-02",
+                "title": "Module 6 7 days 📅 2025-11-02\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3776,16 +3776,16 @@
                     "startLine": 11,
                     "startCharIndex": 0,
                     "endLine": 11,
-                    "endCharIndex": 35
+                    "endCharIndex": 36
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2301990967,
+                "id": 1121920717,
                 "status": " ",
-                "title": "Module 7 7 days 📅 2025-11-02",
+                "title": "Module 7 7 days 📅 2025-11-02\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3800,16 +3800,16 @@
                     "startLine": 12,
                     "startCharIndex": 0,
                     "endLine": 12,
-                    "endCharIndex": 35
+                    "endCharIndex": 36
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1078237270,
+                "id": 1667253712,
                 "status": " ",
-                "title": "Module 8 7 days",
+                "title": "Module 8 7 days\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3824,16 +3824,16 @@
                     "startLine": 13,
                     "startCharIndex": 0,
                     "endLine": 13,
-                    "endCharIndex": 21
+                    "endCharIndex": 22
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 1200485929,
+                "id": 2859443288,
                 "status": " ",
-                "title": "Specialist Module 7 days  📅 2025-11-16",
+                "title": "Specialist Module 7 days  📅 2025-11-16\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3848,16 +3848,16 @@
                     "startLine": 14,
                     "startCharIndex": 0,
                     "endLine": 14,
-                    "endCharIndex": 45
+                    "endCharIndex": 46
                 },
                 "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2354713794,
+                "id": 2848368622,
                 "status": " ",
-                "title": "Overall Journal Reflection 21 days ",
+                "title": "Overall Journal Reflection 21 days \r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -3872,7 +3872,7 @@
                     "startLine": 15,
                     "startCharIndex": 0,
                     "endLine": 15,
-                    "endCharIndex": 41
+                    "endCharIndex": 42
                 },
                 "completion": "",
                 "cancelledDate": "",
@@ -4144,64 +4144,40 @@
                 "cancelledDate": "",
                 "reminder": ""
             }
-        ]
-    },
-    "Completed": {
-        "Planning/Extended A/Modules.md": [
+        ],
+        "Lessons/4 - Production Log Setup & ROIP.md": [
             {
-                "id": 2784284607,
-                "status": "x",
-                "title": "Module 0  7 days ⏳ 2025-09-27 ✅ 2025-10-20",
+                "id": 1075095900,
+                "status": " ",
+                "title": "Production Log Set Up 📅 2025-11-09",
                 "body": [],
                 "time": "",
                 "createdDate": "",
                 "startDate": "",
-                "scheduledDate": "2025-09-27",
-                "due": "",
+                "scheduledDate": "",
+                "due": "2025-11-09",
                 "tags": [],
                 "frontmatterTags": [],
                 "priority": 0,
-                "filePath": "Planning/Extended A/Modules.md",
+                "filePath": "Lessons/4 - Production Log Setup & ROIP.md",
                 "taskLocation": {
-                    "startLine": 6,
+                    "startLine": 17,
                     "startCharIndex": 0,
-                    "endLine": 6,
-                    "endCharIndex": 48
+                    "endLine": 17,
+                    "endCharIndex": 41
                 },
-                "completion": "2025-10-20",
-                "cancelledDate": "",
-                "reminder": ""
-            },
-            {
-                "id": 2955358905,
-                "status": "x",
-                "title": "Module 1  14 days ⏳ 2025-09-27 ✅ 2025-10-20",
-                "body": [],
-                "time": "",
-                "createdDate": "",
-                "startDate": "",
-                "scheduledDate": "2025-09-27",
-                "due": "",
-                "tags": [],
-                "frontmatterTags": [],
-                "priority": 0,
-                "filePath": "Planning/Extended A/Modules.md",
-                "taskLocation": {
-                    "startLine": 7,
-                    "startCharIndex": 0,
-                    "endLine": 7,
-                    "endCharIndex": 49
-                },
-                "completion": "2025-10-20",
+                "completion": "",
                 "cancelledDate": "",
                 "reminder": ""
             }
-        ],
+        ]
+    },
+    "Completed": {
         "Planning/1 Year/Modules.md": [
             {
-                "id": 4269153230,
+                "id": 3174437290,
                 "status": "x",
-                "title": "Module 0 ⏳2025-09-27 7 days ✅ 2025-10-20",
+                "title": "Module 0 ⏳2025-09-27 7 days ✅ 2025-10-20\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -4216,16 +4192,16 @@
                     "startLine": 5,
                     "startCharIndex": 0,
                     "endLine": 5,
-                    "endCharIndex": 46
+                    "endCharIndex": 47
                 },
                 "completion": "2025-10-20",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 2947533431,
+                "id": 4093420719,
                 "status": "x",
-                "title": "Module 1 ⏳2025-09-27  7 days ✅ 2025-10-20",
+                "title": "Module 1 ⏳2025-09-27  7 days ✅ 2025-10-20\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -4240,16 +4216,16 @@
                     "startLine": 6,
                     "startCharIndex": 0,
                     "endLine": 6,
-                    "endCharIndex": 47
+                    "endCharIndex": 48
                 },
                 "completion": "2025-10-20",
                 "cancelledDate": "",
                 "reminder": ""
             },
             {
-                "id": 4163334286,
+                "id": 2289250410,
                 "status": "x",
-                "title": "Module 2 7 days ✅ 2025-10-20",
+                "title": "Module 2 7 days ✅ 2025-10-20\r",
                 "body": [],
                 "time": "",
                 "createdDate": "",
@@ -4264,7 +4240,57 @@
                     "startLine": 7,
                     "startCharIndex": 0,
                     "endLine": 7,
-                    "endCharIndex": 34
+                    "endCharIndex": 35
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            }
+        ],
+        "Planning/Extended A/Modules.md": [
+            {
+                "id": 756985354,
+                "status": "x",
+                "title": "Module 0  7 days ⏳ 2025-09-27 ✅ 2025-10-20\r",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-09-27",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/Extended A/Modules.md",
+                "taskLocation": {
+                    "startLine": 6,
+                    "startCharIndex": 0,
+                    "endLine": 6,
+                    "endCharIndex": 49
+                },
+                "completion": "2025-10-20",
+                "cancelledDate": "",
+                "reminder": ""
+            },
+            {
+                "id": 811298419,
+                "status": "x",
+                "title": "Module 1  14 days ⏳ 2025-09-27 ✅ 2025-10-20\r",
+                "body": [],
+                "time": "",
+                "createdDate": "",
+                "startDate": "",
+                "scheduledDate": "2025-09-27",
+                "due": "",
+                "tags": [],
+                "frontmatterTags": [],
+                "priority": 0,
+                "filePath": "Planning/Extended A/Modules.md",
+                "taskLocation": {
+                    "startLine": 7,
+                    "startCharIndex": 0,
+                    "endLine": 7,
+                    "endCharIndex": 50
                 },
                 "completion": "2025-10-20",
                 "cancelledDate": "",

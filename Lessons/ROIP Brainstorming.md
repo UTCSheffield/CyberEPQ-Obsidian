@@ -33,11 +33,12 @@ What my question will I have to let me do?
 Can I find info safely?
 
 ---
-## The backbone of your project is your research
+## Research for ROIP
 
 The most important thing about your project is : **Can you find reliable information sources about it?**
 
 1. Do a search for each idea. Can you find some info (specific urls and sites).
+2. 
  
 ---
 ## What does the project need to allow me to include?
@@ -61,3 +62,15 @@ The most important thing about your project is : **Can you find reliable informa
 ---
 
 ![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
+
+---
+# SMARTER Targets
+
+- **Specific** - What exactly will you do?
+- **Measurable** - How will you know you’ve succeeded?
+- **Achievable** - Is it realistic?
+- **Resourced** - Have you allocated enough time? Have you got enough information?
+- **Time Tabled** - By when will you achieve each step?
+- **Evaluated** - Keep checking if you are on track
+- **Reviewed** - Sometimes changed circumstances mean a modification in the goal is necessary
+

@@ -2,113 +2,16 @@
 
 
 ---
-
-
 # Do Now / On Whiteboards
 
-What is your favourite thing you have learnt so far?
-
-What Module was it in?
-
-What did you expect to learn about that you haven’t yet?
-
-What Specialist / Innovation Module might that be in?
+- What is your favourite thing you have learnt so far?
+- What Module was it in?
+- What did you expect to learn about that you haven’t yet?
+- What Specialist / Innovation Module might that be in?
 
 
 ---
-
-
-# Next Steps
-
-__Brainstorm ideas __ \(starting today\)
-
-__Initial Research __  (starting today\)
-
-__Filter the ideas __  <span style="color:#5e5e5e">\(showing you briefly\)</span>
-
-Can I form it into a question?
-
-Can I find good information sources?
-
-Will the idea allow me to include everything required to do well?
-
-Can I do this safely?
-
-
----
-
-
-# The backbone of your project is your research
-
-Most important thing about your question / title is:  __Can you find reliable information sources about it?__
-
-We will do a search for each idea\. Can you find some info \(specific urls & sites\)\.
-
-Record the things you find in an “Evaluation Table of Resources” or Zotero
-
-If using Zotero use Notes & Tags to keep track of why stuff is useful and for what idea it is connected to\.
-
-![](../Images/CyberEPQ%20-%20W10%20-%20Research%20&%20ROIP%20Prep_0.png)
-
-
----
-
-
-# Filter the ideas? Will the idea allow me to include everything required to do well?
-
-__Identify\, design\, plan and complete __ an individual project\, applying a range of  __organisational__  skills and strategies to meet agreed objectives\.
-
-__Obtain\, critically select and use information __ from a  __range__  of sources; analyse data\, apply it appropriately and demonstrate understanding of any relevant\, connections and complexities of the topic\.
-
-Select and use a range of  __skills__ \, including new  __technologies__ \,  __solve problems__ \, take decisions critically\, creatively and flexibly\, to achieve planned outcomes\.
-
-__Evaluate__  outcomes both in relation to agreed objectives\, as well as own learning and performance\.
-
-Select and use a range of  __communication__  skills and media to present  evidenced outcomes and conclusions in an appropriate format\.
-
-Write 5000 words?
-
-Check out the Markscheme
-
-
----
-
-
-Identify
-
-Design
-
-Plan
-
-Complete
-
-Organisational
-
-Critically select information
-
-Use information
-
-Range of sources
-
-Analyse data
-
-Select and use a range of skills
-
-New technologies\,
-
-Solve problems
-
-Evaluate
-
-Communication
-
-
----
-
-
-# Next Steps : ROIP : Your best idea
-![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
-
+![[ROIP Brainstorming]]
 
 ---
 

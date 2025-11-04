@@ -13,54 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essay Writing Task.md",
+                "file": "Lessons/3 - Referencing.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Essay Writing Task"
+              "title": "3 - Referencing"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "af368ae4eb17d906",
+        "type": "tabs",
+        "children": [
           {
-            "id": "44688f22b660b564",
+            "id": "787c33b2fc0513ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Planning/Extended A Project Execution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extended A Project Execution"
-            }
-          },
-          {
-            "id": "f5289edd9b2c3450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evaluation Table of Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Evaluation Table of Resources"
-            }
-          },
-          {
-            "id": "ae26abf69b11216d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOW/GANTT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GANTT"
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: Upcoming Tasks.md"
             }
           }
         ]
@@ -216,36 +190,36 @@
   },
   "active": "dca857844f74b2a8",
   "lastOpenFiles": [
+    "Lessons/4 - Production Log Setup & ROIP.md",
+    "Lessons/3 - Referencing.md",
+    "Lessons/Upcoming Tasks.md",
+    "SOW/Scheme Of Work.md",
+    "Production Log.md",
+    "Lessons/4 - Production Log Setup & Referencing.md",
+    "Lessons/ROIP Brainstorming.md",
+    "Lessons/6 - ROIP & Meetings.md",
+    "Lessons/5 - Research & ROIP Prep.md",
+    "Lessons/1 - Outline how the course works.md",
+    "Lessons/Current Focus - Online Modules.md",
+    "Lessons/Do Now.md",
+    "Lessons/Previous Titles.md",
+    "Lessons/Forming An Idea.md",
+    "SOW/Tasks Overview.md",
+    "Planning/1 Year/Planning Tasks.md",
     "Welcome.md",
     "Essay Writing Task.md",
+    "Evaluation Table of Resources.md",
+    "README.md",
+    "ROIP Brainstorm Mindmap.md",
+    "Planning/1 Year/Modules.md",
+    "Lessons/What will I have to do.md",
     "test.md",
     "().md",
     "Modules.pdf",
     "Images/Pasted image 20250723100659.png",
     "Lessons/2 - Planning Your Written Work.md",
-    "Lessons/1 - Outline how the course works.md",
     "Output/2 - Planning Your Written Work.pdf",
     "Images/Pasted image 20251009094420.png",
-    "Planning/1 Year/GANTT - Template.md",
-    "Evaluation Table of Resources.md",
-    "Planning/Essay Planning.md",
-    "Planning/Extended A/Project Execution.md",
-    "Planning/Extended A/Planning Tasks.md",
-    "Planning/Extended A/GANTT - Template.md",
-    "Planning/Extended A/Modules.md",
-    "Lessons/The Stages.md",
-    "Clippings/The CyberEPQ.md",
-    "Clippings/About CIISec.md",
-    "Planning/1 Year/Modules.md",
-    "SOW/GANTT.md",
-    "SOW/Scheme Of Work.md",
-    "Planning/1 Year/Modules June Start.md",
-    "CyberEPQ Project Titles/2023-24.md",
-    "CyberEPQ Project Titles/2024-25.md",
-    "CyberEPQ Project Titles/2022-23.md",
-    "CyberEPQ Project Titles/2019-20.md",
-    "CyberEPQ Project Titles/2018-19.md",
-    "CyberEPQ Project Titles/2017-18.md",
     "Images/Pasted image 20251003133246.png",
     "Output/GANTT - Template.pdf",
     "Output/GANTT - Example.pdf",
