@@ -32,14 +32,7 @@ What my question will I have to let me do?
 
 Can I find info safely?
 
----
-## Research for ROIP
 
-The most important thing about your project is : **Can you find reliable information sources about it?**
-
-1. Do a search for each idea. Can you find some info (specific urls and sites).
-2. 
- 
 ---
 ## What does the project need to allow me to include?
 
@@ -58,6 +51,25 @@ The most important thing about your project is : **Can you find reliable informa
 * Do the title and proposed action plan indicate that you will be capable of:
   * investigating and researching the topic or carrying out the activity or task independently?
 * Is there a danger that you will be unable to approach the project impartially and in a balanced way?
+
+---
+## Research for ROIP
+
+The most important thing about your project is : **Can you find reliable information sources about it?**
+
+You can log your searches and what good things you find in any of these ways.
+- Search Progress" (in the assignment and by far the easiest) 
+- Obsidian Web Clipper (the most integrated)
+- Copy the blank "Evaluation Table of Resources" for each idea and upload it here (will need different names for each one)
+- Zotero
+
+**If you can't find at least 3 good sites for info it's not a good idea ? Wikipedia is not a good source but it’s references are often a great place to look.**
+You should find at least 3 specific sites for at least 2 ideas.
+
+---
+
+# Assignment
+## Record of Initial Planning : Production Log Upload
 
 ---
 

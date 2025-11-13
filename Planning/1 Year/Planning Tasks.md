@@ -1,5 +1,5 @@
 - [ ] Research 14 days ⏳ 2025-11-10
-- [ ] Record of Initial Planning 7 days ⏳ 2025-11-15 📅 2025-11-21
+- [ ] Record of Initial Planning 7 days ⏳ 2025-11-17 📅 2025-11-23
 - [ ] Draft Project Proposal A & Plan 7 days 🆔 zzs98s
 - [ ] Project Proposal A & Plan 7 days 🆔 nv1bir ⛔ zzs98s
 - [ ] Project Proposal A & Plan - Submission ⛔ lcuy5s 📅 2025-12-12

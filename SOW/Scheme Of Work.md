@@ -1,12 +1,12 @@
-- [ ] Week 1 No Mon  🛫 2025-09-01 7 days
-- [ ] Week 2 7 days
-- [ ] Week 3 7 days
-- [ ] Week 4  7 days
-- [ ] Week 5 [[1 - Outline how the course works]]  7 days
-- [ ] Week 6 [[2 - Planning Your Written Work]]  7 days
-- [ ] Week 7 [[3 - Referencing]] 7 days
-- [ ] Week 8 [[4 - Production Log Setup & ROIP]] No Wed-Fri 7 days
-- [ ] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2025-11-03 7 days
+- [x] Week 1 No Mon  🛫 2025-09-01 7 days ✅ 2025-11-11
+- [x] Week 2 7 days ✅ 2025-11-11
+- [x] Week 3 7 days ✅ 2025-11-11
+- [x] Week 4  7 days ✅ 2025-11-11
+- [x] Week 5 [[1 - Outline how the course works]]  7 days ✅ 2025-11-11
+- [x] Week 6 [[2 - Planning Your Written Work]]  7 days ✅ 2025-11-11
+- [x] Week 7 [[3 - Referencing]] 7 days ✅ 2025-11-11
+- [x] Week 8 [[4 - Production Log Setup & ROIP]] No Wed-Fri 7 days ✅ 2025-11-11
+- [x] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2025-11-03 7 days ✅ 2025-11-11
 - [ ] Week 10 [[5 - Research & ROIP Prep]] 7 days
 - [ ] Week 11 [[6 - ROIP & Meetings]] 7 days
 - [ ] Week 12 [[7 - PPA Draft & Planning]] 7 days

@@ -1,8 +1,7 @@
-# Lesson 4 - Production Log Setup & ROIP
+# Lesson 4 & 5 - Production Log Setup & ROIP
 
 
 ---
-
 ## Do Now : On Whiteboards
 
 Your EPQ project is an “Academic inquiry” based around a research question.
@@ -14,6 +13,8 @@ What properties does a good __research question__ have?
 ---
 # Production Log Set Up
 
+- [ ] Production Log Set Up 📅 2025-11-09
+
 * Download the “Blank Production Log 25-26 UTC OLP” below .
 * Never edit this document online, always edit in Desktop App
 * Fill in your "Full Name" and "Candidate Number“\. These should copy onto every page\.
@@ -24,23 +25,9 @@ What properties does a good __research question__ have?
 ---
 # Candidate Numbers
 
-| C&G Ref | Forename | Surname        |
-| ------- | -------- | -------------- |
-| SZJ1514 | Abdullah | Abdelguerfi    |
-| SZJ1404 | Saiful   | Ali            |
-| SZJ1294 | Rayyan   | Ahmed          |
-| SZJ1184 | Samuel   | Bray           |
-| SZJ1074 | Alistair | Cox            |
-| SZJ0994 | Max      | Dawson         |
-| SZJ0884 | Daud     | Ibrahim        |
-| SZJ0774 | Finley   | Sargeson       |
-| SZJ0664 | Joshua   | Thom           |
-| SZJ0554 | Joshua   | Talbot-Sheerin |
-| SZJ0444 | Muhammed | Al-Wareeth     |
-| SZJ0034 | Adyan    | Chowdhury      |
-| SZJ0224 | Rayyan   | Chowdhury      |
-| SZJ0114 | Loai     | Shabi          |
-| SZI9997 | Yaqoob   | Faraj          |
+| C&G Ref | Forename | Surname |
+| ------- | -------- | ------- |
+| SZJ1294 | Rayyan   | Ahmed   |
 
 ---
 # Production Log Set Up
@@ -64,3 +51,32 @@ What properties does a good __research question__ have?
 ---
 
 ![[ROIP Brainstorming]]
+
+---
+# Next Steps : MEG Checking your idea
+
+
+* Is the title clear and focused on an issue which can be managed:
+  * within the timescale\, available resources and word total?
+* Do the title and proposed action plan indicate that you will be capable of:
+  * investigating and researching the topic or carrying out the activity or task independently?
+* Is there a danger that you will be unable to approach the project impartially and in a balanced way?
+
+---
+# ROIP
+
+* Start your ROIP  \(Page 6 of the Production Log\) by filling in the
+  * "Your first idea for topic \(to include overall aim\)" and
+  * "Your first ideas for research and development of your project" boxes\.
+<!--* And fill in the back up idea form as well.-->
+
+- Can I form it into a question?
+- Can I find good information sources?
+- Will the idea allow me to include everything required to do well?
+- Can I do this safely?
+
+---
+
+
+
+
