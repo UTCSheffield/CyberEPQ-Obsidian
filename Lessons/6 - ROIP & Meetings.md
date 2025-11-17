@@ -19,9 +19,14 @@
 ![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
 
 ---
+# Your filters
 
+- Can I form it into a question, to which I can find an opinion and conclusion?
+- Can I find good information sources?
+- Will the idea allow me to include everything required to do well?
+- Can I do this safely?
 
-
+---
 # Start your ROIP
 
 \(Page 6 of the “Prod Log”\)
@@ -41,6 +46,7 @@ Submit in the assignment “Record of Initial Planning : Production Log Upload�
 * Do the title and proposed action plan indicate that you will be capable of:
   * investigating and researching the topic or carrying out the activity or task independently?
 * Is there a danger that you will be unable to approach the project impartially and in a balanced way?
+
 
 ---
 
