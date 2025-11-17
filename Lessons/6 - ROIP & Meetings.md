@@ -4,32 +4,25 @@
 
 ---
 
+# Extended Cohort A
 
-# Do Now : On Whiteboards
+- Get on with your modules
+- Your should be working on at least Module 5 (due this Sunday)
 
-Favourite thing in the Specialist / Innovation Module you are doing / done?
+---
 
-What questions have you pondered?
+# 1 Year Cohort : Assignment
+## Record of Initial Planning : Production Log Upload
 
+---
+
+![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
 
 ---
 
 
-# “Places you can research your topics”
 
-On Teams reopen this assignment
-
-10 minutes to finish off and Turn in\.
-
-
----
-
-
-# ROIP : Your best idea from your research
-
-![](../Images/CyberEPQ%20-%20W11%20-%20ROIP%20&%20Meetings_0.png)
-
-Start your ROIP
+# Start your ROIP
 
 \(Page 6 of the “Prod Log”\)
 
@@ -39,13 +32,8 @@ Start your ROIP
 
 Submit in the assignment “Record of Initial Planning : Production Log Upload”
 
-
 ---
-
-
-# RoIP Meeting : MEG Checking your idea
-
-
+# ROIP Meeting : MEG Checking your idea
 
 * I’ll meet with you to fill in my box once you ROIP is submitted\.
 * Is the title clear and focused on an issue which can be managed:
@@ -56,14 +44,7 @@ Submit in the assignment “Record of Initial Planning : Production Log Upload�
 
 ---
 
-
-
-
-# Next Steps : ROIP : Your best idea
-
-![](../Images/CyberEPQ%20-%20W11%20-%20ROIP%20&%20Meetings_1.png)
-
-After the meeting :
+## After the meeting :
 
 Fill in the  __“Changes\, clarifications or additions you have made as a result of your discussion with your supervisor” __ section\. And start on the PPA bearing those changes in mind\.
 
