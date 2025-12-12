@@ -1,0 +1,130 @@
+---
+title: "British Library cyberattack - Wikipedia"
+source: "https://en.wikipedia.org/wiki/British_Library_cyberattack"
+author:
+  - "[[Contributors to Wikimedia projects]]"
+published: 2023-12-22
+created: 2025-11-26
+description:
+tags:
+  - "clippings"
+---
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/London_-_Euston_Road_-_Entrance_Gate_British_Library_-_View_NNW_towards_Newton_Statue.jpg/500px-London_-_Euston_Road_-_Entrance_Gate_British_Library_-_View_NNW_towards_Newton_Statue.jpg)
+
+Entrance gate to the British Library on Euston Road, St Pancras, London, looking towards the Newton statue
+
+In October 2023, [Rhysida](https://en.wikipedia.org/wiki/Rhysida_\(hacker_group\) "Rhysida (hacker group)"), a [hacker group](https://en.wikipedia.org/wiki/Hacker_group "Hacker group"), attacked the online information systems of the [British Library](https://en.wikipedia.org/wiki/British_Library "British Library"). They demanded a ransom of 20 [bitcoin](https://en.wikipedia.org/wiki/Bitcoin "Bitcoin"), at the time around [£](https://en.wikipedia.org/wiki/Pound_sterling "Pound sterling") 596,000, to restore services and return the stolen data. When the British Library did not acquiesce to the demands, Rhysida publicly released approximately 600GB of leaked material online. Services at the library were severely disrupted for months. It has been described as "one of the worst cyber incidents in British history".[^1]
+
+The main catalogue returned online on 15 January 2024 in a [read-only](https://en.wikipedia.org/wiki/Read-only_access "Read-only access") format, although some of the library's services are expected to remain unavailable for months. The British Library will use about 40 percent of its financial reserves, around [£](https://en.wikipedia.org/wiki/Pound_sterling "Pound sterling") 6–7 million, to recover from the attack.
+
+## Background
+
+The [British Library](https://en.wikipedia.org/wiki/British_Library "British Library") is a [non-departmental public body](https://en.wikipedia.org/wiki/Non-departmental_public_body "Non-departmental public body") which in 2023 held around 14 million books, as well as millions of other items.[^2] [^3] It is the largest library in the United Kingdom.[^4] The Library was protected by [firewalls](https://en.wikipedia.org/wiki/Firewall_\(computing\) "Firewall (computing)") and [antivirus software](https://en.wikipedia.org/wiki/Antivirus_software "Antivirus software") but did not have a [multi-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication "Multi-factor authentication") (MFA) policy that covered all organizational assets. The Library had installed a new Terminal Services server in February 2020 to facilitate [remote access](https://en.wikipedia.org/wiki/Remote_access_service "Remote access service") to third-party providers during the [COVID-19 pandemic](https://en.wikipedia.org/wiki/COVID-19_pandemic "COVID-19 pandemic"); this was the server on which unauthorized access was first detected during the attack. The library had achieved accreditation for the "Cyber Essentials Plus" in 2019; however, in 2022 the accreditation standards changed which made the library non-compliant. In 2020, the Library, in light of the COVID-19 pandemic, implemented MFA, however, a Library report clarified that "...but for reasons of practicality, cost and impact on ongoing Library programmes, it was decided at this time that connectivity to the British Library domain (including machine log-on access and access to on-premise servers) would be out of scope for MFA implementation, pending further renewal of the Library’s infrastructure." [^5] Due to these circumstances, the Library's servers were vulnerable to attack due to identified increasing third-party cybersecurity risks and a series of emergency decisions to quickly secure their infrastructure while adapting to change due to the COVID-19 pandemic. This sequence of identified potential security risks and the subsequent failure to remediate them is a classic example of the failure to maintain a strong organizational [Cybersecurity Risk Management](https://en.wikipedia.org/wiki/Risk_management "Risk management") or Risk Remediation posture as outlined in [NIST](https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology "National Institute of Standards and Technology") SP 800-37r2.[^6]
+
+[Rhysida](https://en.wikipedia.org/wiki/Rhysida_\(hacker_group\) "Rhysida (hacker group)") is a [hacker group](https://en.wikipedia.org/wiki/Hacker_group "Hacker group") and " [ransomware as a service](https://en.wikipedia.org/wiki/Ransomware_as_a_service "Ransomware as a service") " provider already known for its attacks on vital infrastructure such as schools, hospitals and government agencies, having become known to [intelligence services](https://en.wikipedia.org/wiki/Intelligence_agency "Intelligence agency") in May 2023.[^3] [^7] It had previously attacked the [Chilean Army](https://en.wikipedia.org/wiki/Chilean_Army "Chilean Army"), a medical research lab in Australia, and health-care company [Prospect Medical Holdings](https://en.wikipedia.org/wiki/Prospect_Medical_Holdings "Prospect Medical Holdings").[^7]
+
+The British Library attack was part of a larger pattern of [cyberattacks](https://en.wikipedia.org/wiki/Cyberattack "Cyberattack") at this time against cultural institutions. These attacks had previously affected the [Metropolitan Opera](https://en.wikipedia.org/wiki/Metropolitan_Opera "Metropolitan Opera") in [New York City](https://en.wikipedia.org/wiki/New_York_City "New York City") and [Natural History Museum](https://en.wikipedia.org/wiki/Natural_History_Museum,_Berlin "Natural History Museum, Berlin") in [Berlin](https://en.wikipedia.org/wiki/Berlin "Berlin").[^8]
+
+### 2023
+
+- **28 October:** At 9:54 a.m. [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time "Greenwich Mean Time"), The British Library states on [Twitter](https://en.wikipedia.org/wiki/Twitter "Twitter") that it is experiencing "technical issues affecting our website". By midmorning, issues include a public [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi "Wi-Fi") outage and non-functional online catalogue.[^7] [^3] [^9]
+- **29 October:** The Library announces on [Twitter](https://en.wikipedia.org/wiki/Twitter "Twitter") that it is experiencing a "technology outage".[^7]
+- **30 October:** The Library reopens after the weekend "in a pre-digital state", according to *[The New Yorker](https://en.wikipedia.org/wiki/The_New_Yorker "The New Yorker")*. Its website, phone lines, ticket sales, reader registrations, and card transactions are non-functional. Deliveries from the Library's [Boston Spa](https://en.wikipedia.org/wiki/Boston_Spa "Boston Spa") site are put on hold.[^7]
+- **31** **October:** The Library confirms publicly that the outage is the consequence of a cyberattack.[^10] It launches an investigation alongside the [National Cyber Security Centre](https://en.wikipedia.org/wiki/National_Cyber_Security_Centre_\(United_Kingdom\) "National Cyber Security Centre (United Kingdom)") (NCSC) and other [cybersecurity](https://en.wikipedia.org/wiki/Computer_security "Computer security") specialists.[^11]
+- **16 November:** An attempt at digital extortion, also known as a ransomware attack, is confirmed by the Library.[^10]
+- **20 November:** Rhysida claims responsibility for the breach and launches a week-long auction for 490,191 files of data on the [dark web](https://en.wikipedia.org/wiki/Dark_web "Dark web"), opening bidding at 20 [bitcoin](https://en.wikipedia.org/wiki/Bitcoin "Bitcoin"), at the time equivalent to about [£](https://en.wikipedia.org/wiki/Pound_sterling "Pound sterling") 596,000, for a single buyer.[^2] [^7] It sets the auction deadline to 8 a.m. [GMT](https://en.wikipedia.org/wiki/Greenwich_Mean_Time "Greenwich Mean Time") on 27 November and advertises it with [low-resolution](https://en.wikipedia.org/wiki/Image_resolution "Image resolution") images which appear to show [HM Revenue and Customs](https://en.wikipedia.org/wiki/HM_Revenue_and_Customs "HM Revenue and Customs") documents, [employment contracts](https://en.wikipedia.org/wiki/Employment_contract "Employment contract") and [passport](https://en.wikipedia.org/wiki/Passport "Passport") information.[^2] [^4] It claims the data is "exclusive, unique and impressive".[^3] The Library states that the leaked data appears to be from its internal [human resources](https://en.wikipedia.org/wiki/Human_resources "Human resources") files.[^4]
+- **27 November:** Rhysida makes 90 percent of the stolen data, approximately 600 [GB](https://en.wikipedia.org/wiki/Gigabyte "Gigabyte"), freely available for anyone on the [dark web](https://en.wikipedia.org/wiki/Dark_web "Dark web") to download after the British Library refuses to pay the ransom.[^7] [^12]
+
+### 2024
+
+- **5 January:** The Financial Times reports that the Library would use around 40 percent of its financial reserves to recover from the attack, estimated at around £6–7 million.[^13]
+- **10 January:** The Library announces that some of its services will return online from 15 January, with access stated by [Roly Keating](https://en.wikipedia.org/wiki/Roly_Keating "Roly Keating"), chief executive of the Library, to be "slower and more manual" than before the attack. Keating apologises that "for the past two months researchers who rely for their studies and in some cases for their livelihoods on access to the library's collection have been deprived of it".[^14] [^15]
+- **15 January:** The British Library's main online catalogue is restored in a [read-only](https://en.wiktionary.org/wiki/read-only "wikt:read-only") format. Users are able to search the main catalogue, but the process of checking availability and ordering items is different. Access to key [special collections](https://en.wikipedia.org/wiki/Special_collections "Special collections") is restored but for in-person visits only.[^14] [^15] [^16] [^17]
+- **8 March:**[Roly Keating](https://en.wikipedia.org/wiki/Roly_Keating "Roly Keating") authors a blog post to the British Library website announcing the availability of a report that "gives a description and timeline of the attack, to the best of our current understanding, and its implications for the Library’s operations, future infrastructure and risk assessment." [^18] [^19] The report announced that it was undertaking a "Rebuild & Renew" scheme "to ensure its future ability to respond to incidents of a similar scale in a consistent and structured way", including a "considerable shift" away from on-site technologies and onto the [cloud](https://en.wikipedia.org/wiki/Cloud_computing "Cloud computing").[^20]
+- **30 July:** Library announces that remote ordering of physical media for delivery to the Reading Rooms will be available by September 2024. Digital versions of historically significant manuscripts will be re-released incrementally beginning in September, based on a "prioritised list of manuscripts based on criteria including the items that were most requested prior to the cyber-attack and items to which Reading Room access is restricted." Educational websites, and digital academic journals, will also be restored before the academic year 2024–25, to the extent possible. Digital ordering of items in the Automated Storage Building is expected to go back online in August 2024.[^21]
+
+#### 2025
+
+- Access to the library collection will be halted between the 1st of December to 7th December to allow for a [LMS](https://en.wikipedia.org/wiki/Integrated_library_system "Integrated library system") changeover to the [Ex Libris](https://en.wikipedia.org/wiki/Ex_Libris_Group "Ex Libris Group") software Alma.[^22] [^23]
+- Following the changeover a new online catalogue interface will be available on the 8th December for requests. [^22]
+
+## Attack methods
+
+The Library stated that the attackers probably used a [phishing](https://en.wikipedia.org/wiki/Phishing "Phishing"), [spear-phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing "Phishing") or [brute-force attack](https://en.wikipedia.org/wiki/Brute-force_attack "Brute-force attack") facilitated by a compromise of third-party credentials as well as a lack of use of multi-factor authentication by third-party contractors. After gaining access, Rhysida used three methods to identify and copy the 600GB of documents during the attack, including personal details of Library users and staff. These were:[^20]
+
+1. A targeted attack that copied full sections of [network drives](https://en.wikipedia.org/wiki/File_server "File server") of the Library's Finance, Technology and People teams, which made up 60% of all content copied.
+2. A keyword attack which scanned for files and folders that used sensitive keywords in their names, including 'passport' or 'confidential', which constituted 40% of the copied data and included files from [corporate networks](https://en.wikipedia.org/wiki/Corporate_network "Corporate network") and personal drives used by staff.
+3. A hijacking of native utilities, which were then used to forcibly create backup copies of 22 databases of data including contact details of external users and customers.
+
+Furthermore, Rhysida and its affiliates destroyed servers to inhibit system recovery and [forensic analysis](https://en.wikipedia.org/wiki/Forensic_science "Forensic science").[^20]
+
+## Impact
+
+While the process of calculating the full financial impact of the attack is ongoing,[^20] there were a number of impacts to the functioning of the library following the attack. These include:
+
+- Library items from its [Boston Spa](https://en.wikipedia.org/wiki/Boston_Spa "Boston Spa") branch could not be transferred to the London site.[^9]
+- Around 20,000 writers, illustrators and translators who usually received [Public Lending Right](https://en.wikipedia.org/wiki/Public_Lending_Right "Public Lending Right") payments from borrowed books had their payments delayed.[^24] [^9]
+- The Library's 2024–25 visiting fellowship programme was suspended.[^9]
+- The computerised catalogue was offline for months, with partial restoration in January 2024.[^9]
+- The [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service "E-Theses Online Service") collection of British [doctoral theses](https://en.wikipedia.org/wiki/Thesis "Thesis") remained offline as of 19 December 2023.[^7]
+- An estimated £6–7 million in costs to recover from the attack.[^13]
+- As of 4 November 2024, British Library electronic resources web pages redirect to a page with the statement, "We're continuing to experience a major technology outage as a result of a cyber-attack. Our buildings are open as usual, however, the outage is still affecting our website, online systems and services, as well as some onsite services. This is a temporary website, with limited content, which outlines the services that are currently available, as well as what's on at the Library." [^25]
+
+## See also
+
+- [WannaCry ransomware attack](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack "WannaCry ransomware attack")
+- [Internet Archive cyberattack](https://en.wikipedia.org/wiki/Internet_Archive#Cyberattacks "Internet Archive")
+
+## References
+
+[^1]: Ash, Lamorna (6 February 2024). ["Thanks to a shadowy hacker group, the British Library is still on its knees. Is there any way to stop them?"](https://www.theguardian.com/commentisfree/2024/feb/06/hacker-british-library-cybersecurity-cybercrime-uk). *[The Guardian](https://en.wikipedia.org/wiki/The_Guardian "The Guardian")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved 2024-02-22.
+
+[^2]: Sherwood, Harriet (22 November 2023). ["Personal data stolen in British Library cyber-attack appears for sale online"](https://www.theguardian.com/technology/2023/nov/22/personal-data-stolen-in-british-library-cyber-attack-appears-for-sale-online). *[The Guardian](https://en.wikipedia.org/wiki/The_Guardian "The Guardian")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0261-3077](https://search.worldcat.org/issn/0261-3077). [Archived](https://web.archive.org/web/20231209004316/https://www.theguardian.com/technology/2023/nov/22/personal-data-stolen-in-british-library-cyber-attack-appears-for-sale-online) from the original on 2023-12-09. Retrieved 2024-01-15.
+
+[^3]: Uddin, Rafe; Stacey, Stephanie (21 November 2023). ["Cyber attack on British Library raises concerns over lack of UK resilience"](https://www.ft.com/content/642ee014-4768-4c65-b1ee-0d4f39a8a63d). *[Financial Times](https://en.wikipedia.org/wiki/Financial_Times "Financial Times")*. [Archived](https://web.archive.org/web/20231230183853/https://www.ft.com/content/642ee014-4768-4c65-b1ee-0d4f39a8a63d) from the original on 2023-12-30. Retrieved 2024-01-15.
+
+[^4]: Rufo, Yasmin (21 November 2023). ["British Library: Employee data leaked in cyber attack"](https://www.bbc.com/news/entertainment-arts-67484639). *[BBC News](https://en.wikipedia.org/wiki/BBC_News "BBC News")*. [Archived](https://web.archive.org/web/20240116115449/https://www.bbc.com/news/entertainment-arts-67484639) from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^5]: [https://cdn.sanity.io/files/v5dwkion/production/99206a2d1e9f07b35712b78f7d75fbb09560c08d.pdf](https://cdn.sanity.io/files/v5dwkion/production/99206a2d1e9f07b35712b78f7d75fbb09560c08d.pdf)
+
+[^6]: [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-37r2.pdf)
+
+[^7]: Knight, Sam (19 December 2023). ["The Disturbing Impact of the Cyberattack at the British Library"](https://www.newyorker.com/news/letter-from-the-uk/the-disturbing-impact-of-the-cyberattack-at-the-british-library). *[The New Yorker](https://en.wikipedia.org/wiki/The_New_Yorker "The New Yorker")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0028-792X](https://search.worldcat.org/issn/0028-792X). [Archived](https://web.archive.org/web/20231220114107/https://www.newyorker.com/news/letter-from-the-uk/the-disturbing-impact-of-the-cyberattack-at-the-british-library) from the original on 2023-12-20. Retrieved 2024-01-16.
+
+[^8]: Harris, Gareth (22 December 2023). ["As British Library faces fallout of cyber attack—what can arts bodies do to combat ransomware threats?"](https://www.theartnewspaper.com/2023/12/22/as-british-library-faces-fallout-of-cyber-attackwhat-can-arts-bodies-do-to-fight-off-wave-of-ransomware-threats). *[The Art Newspaper](https://en.wikipedia.org/wiki/The_Art_Newspaper "The Art Newspaper")*. [Archived](https://web.archive.org/web/20240114170007/https://www.theartnewspaper.com/2023/12/22/as-british-library-faces-fallout-of-cyber-attackwhat-can-arts-bodies-do-to-fight-off-wave-of-ransomware-threats) from the original on 2024-01-14. Retrieved 2024-01-15.
+
+[^9]: Sherwood, Harriet (15 January 2024). ["'A 22-carat disaster': what next for British Library staff and users after data theft?"](https://www.theguardian.com/books/2024/jan/15/british-library-cyber-attack-staff-users-analysis). *[The Guardian](https://en.wikipedia.org/wiki/The_Guardian "The Guardian")*. [Archived](https://web.archive.org/web/20240115210514/https://www.theguardian.com/books/2024/jan/15/british-library-cyber-attack-staff-users-analysis) from the original on 2024-01-15. Retrieved 2024-01-15.
+
+[^10]: Scroxton, Alex (15 January 2024). ["British Library cyber attack explained: What you need to know"](https://www.computerweekly.com/feature/British-Library-cyber-attack-explained-What-you-need-to-know). *[Computer Weekly](https://en.wikipedia.org/wiki/Computer_Weekly "Computer Weekly")*. [Archived](https://web.archive.org/web/20240116013818/https://www.computerweekly.com/feature/British-Library-cyber-attack-explained-What-you-need-to-know) from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^11]: Banfield-Nwachi, Mabel (31 October 2023). ["British Library suffering major technology outage after cyber-attack"](https://www.theguardian.com/books/2023/oct/31/british-library-suffering-major-technology-outage-after-cyber-attack). *[The Guardian](https://en.wikipedia.org/wiki/The_Guardian "The Guardian")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0261-3077](https://search.worldcat.org/issn/0261-3077). [Archived](https://web.archive.org/web/20231108142221/https://www.theguardian.com/books/2023/oct/31/british-library-suffering-major-technology-outage-after-cyber-attack) from the original on 2023-11-08. Retrieved 2024-01-15.
+
+[^12]: Adams, Geraldine Kendall (20 December 2023). ["Museums on alert following British Library cyber attack"](https://www.museumsassociation.org/museums-journal/news/2023/12/museums-on-alert-following-british-library-cyber-attack/). *[Museums Association](https://en.wikipedia.org/wiki/Museums_Association "Museums Association")*. [Archived](https://web.archive.org/web/20231223000618/https://www.museumsassociation.org/museums-journal/news/2023/12/museums-on-alert-following-british-library-cyber-attack/) from the original on 2023-12-23. Retrieved 2023-12-23.
+
+[^13]: Uddin, Rafe; Thomas, Daniel (5 January 2024). ["British Library to burn through reserves to recover from cyber attack"](https://www.ft.com/content/4be5d468-0cc3-4881-a5fb-b5d0163de93e). *[Financial Times](https://en.wikipedia.org/wiki/Financial_Times "Financial Times")*. [Archived](https://web.archive.org/web/20240116115449/https://www.ft.com/content/4be5d468-0cc3-4881-a5fb-b5d0163de93e) from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^14]: Gross, Jenny (15 January 2024). ["Months After Cyberattack, British Library Crawls Back Online"](https://www.nytimes.com/2024/01/15/arts/british-library-cyberattack.html). *[The New York Times](https://en.wikipedia.org/wiki/The_New_York_Times "The New York Times")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0362-4331](https://search.worldcat.org/issn/0362-4331). [Archived](https://web.archive.org/web/20240116115449/https://www.nytimes.com/2024/01/15/arts/british-library-cyberattack.html) from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^15]: Sherwood, Harriet (15 January 2024). ["British Library begins restoring digital services after cyber-attack"](https://www.theguardian.com/books/2024/jan/15/british-library-begins-restoring-digital-services-after-cyber-attack). *[The Guardian](https://en.wikipedia.org/wiki/The_Guardian "The Guardian")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0261-3077](https://search.worldcat.org/issn/0261-3077). [Archived](https://web.archive.org/web/20240116115450/https://www.theguardian.com/books/2024/jan/15/british-library-begins-restoring-digital-services-after-cyber-attack) from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^16]: Nanji, Noor (15 January 2024). ["British Library starts restoring services online after hack"](https://www.bbc.com/news/entertainment-arts-67976183). *[BBC News](https://en.wikipedia.org/wiki/BBC_News "BBC News")*. [Archived](https://web.archive.org/web/20240115194015/https://www.bbc.com/news/entertainment-arts-67976183) from the original on 2024-01-15. Retrieved 2024-01-15.
+
+[^17]: Simpson, Craig (15 January 2024). ["British Library restoring online services after cyber attack"](https://www.telegraph.co.uk/news/2024/01/15/british-library-rhysida-hack-restores-online-services/). *[The Telegraph](https://en.wikipedia.org/wiki/The_Daily_Telegraph "The Daily Telegraph")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0307-1235](https://search.worldcat.org/issn/0307-1235). [Archived](https://web.archive.org/web/20240116115449/https://www.telegraph.co.uk/news/2024/01/15/british-library-rhysida-hack-restores-online-services/) from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^18]: Keating, Roly (8 March 2024). ["Learning lessons from the cyber-attack"](https://blogs.bl.uk/living-knowledge/2024/03/learning-lessons-from-the-cyber-attack.html). *Knowledge Matters blog*. British Library. Retrieved 2024-03-08.
+
+[^19]: ["Learning from the cyber-attack: British Library cyber incident review"](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf) (PDF). British Library. 8 March 2024. p. 18. Retrieved 2024-03-08.
+
+[^20]: Coker, James (11 March 2024). ["Third-Party Breach and Missing MFA Led to British Library Attack"](https://www.infosecurity-magazine.com/news/third-party-mfa-british-library/). *[Infosecurity Magazine](https://en.wikipedia.org/w/index.php?title=Infosecurity_Magazine&action=edit&redlink=1 "Infosecurity Magazine (page does not exist)")*. Retrieved 2024-03-12.
+
+[^21]: ["Restoring our services – 30 July 2024 update"](https://blogs.bl.uk/living-knowledge/2024/07/restoring-our-services-30-july-2024-update-.html). *blogs.bl.uk*.
+
+[^22]: Maxwell, Jamie. ["Guides: What's currently available: Introduction"](https://bl.libguides.com/currently-available/introduction). *bl.libguides.com*. Retrieved 2025-11-24.
+
+[^23]: ["The British Library Selects Clarivate to Provide Library Services"](https://exlibrisgroup.com/announcement/the-british-library-selects-clarivate-to-provide-library-services-and-discovery-platforms/). Retrieved 2025-11-24.
+
+[^24]: Barnett, David (6 January 2024).. *[The Observer](https://en.wikipedia.org/wiki/The_Observer "The Observer")*. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0029-7712](https://search.worldcat.org/issn/0029-7712). from the original on 2024-01-16. Retrieved 2024-01-16.
+
+[^25]: ["Sorry we can't find that page"](https://www.bl.uk/eresources/remote/about.html). *British Library (bl.uk)*. Retrieved 2024-11-04.

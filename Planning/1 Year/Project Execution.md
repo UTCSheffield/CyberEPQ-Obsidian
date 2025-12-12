@@ -6,7 +6,7 @@
 - [ ] Mid Project Review  📅 2026-02-14
 - [ ] Essay Draft  📅  2026-02-25
 - [ ] Draft Presentation  📅 2026-03-07
-- [ ] Presentation Upload  📅 2026-03-10
+- [ ] Presentation Upload  📅 2026-03-09
 - [ ] End of Project Paperwork Upload  📅 2026-03-14
 - [ ] Essay Upload  📅 2026-03-14
 - [ ] Full Project Submission  📅 2026-03-17

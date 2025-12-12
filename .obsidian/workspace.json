@@ -8,33 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dca857844f74b2a8",
+            "id": "a32dc8bee7f32f69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/3 - Referencing.md",
+                "file": "SOW/Scheme Of Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scheme Of Work"
+            }
+          },
+          {
+            "id": "69cd5a92e3401ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/5 - Research & ROIP Prep.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3 - Referencing"
+              "title": "5 - Research & ROIP Prep"
+            }
+          },
+          {
+            "id": "a71d1a906371ddd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/Titles 2025-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Titles 2025-26"
+            }
+          },
+          {
+            "id": "592512a5ee88bc9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Marking thingies/PPB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PPB"
+            }
+          },
+          {
+            "id": "93921c344f884b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lessons/9 - Get On With It.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 - Get On With It"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
-        "id": "af368ae4eb17d906",
+        "id": "5edaf9586f6a7f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "787c33b2fc0513ec",
+            "id": "257392d76481f4a5",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: Upcoming Tasks.md"
+              "title": "Preview: 9 - Get On With It.md"
             }
           }
         ]
@@ -69,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ganttchart",
+                "query": "tag:CIISec Contact",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.51103591918945
+    "width": 298.51103591918945
   },
   "right": {
     "id": "ba5bcff7f93daa05",
@@ -185,56 +242,57 @@
       "command-palette:Open command palette": false,
       "task-board:Open task board": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "slides-extended:Show slide preview": false
+      "slides-extended:Show slide preview": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "dca857844f74b2a8",
+  "active": "257392d76481f4a5",
   "lastOpenFiles": [
-    "Lessons/4 - Production Log Setup & ROIP.md",
-    "Lessons/3 - Referencing.md",
-    "Lessons/Upcoming Tasks.md",
+    "Marking thingies/PPB.md",
+    "Lessons/9 - Get On With It.md",
     "SOW/Scheme Of Work.md",
-    "Production Log.md",
-    "Lessons/4 - Production Log Setup & Referencing.md",
-    "Lessons/ROIP Brainstorming.md",
-    "Lessons/6 - ROIP & Meetings.md",
-    "Lessons/5 - Research & ROIP Prep.md",
-    "Lessons/1 - Outline how the course works.md",
-    "Lessons/Current Focus - Online Modules.md",
-    "Lessons/Do Now.md",
-    "Lessons/Previous Titles.md",
-    "Lessons/Forming An Idea.md",
-    "SOW/Tasks Overview.md",
-    "Planning/1 Year/Planning Tasks.md",
+    "Lessons/4 - Production Log Setup & ROIP.md",
+    "Lessons/Spare Bits.md",
+    "Lessons/Titles 2025-26.md",
+    "Planning/1 Year/GANTT - Template.md",
+    "Output/Previous Titles.pdf",
     "Welcome.md",
-    "Essay Writing Task.md",
-    "Evaluation Table of Resources.md",
-    "README.md",
-    "ROIP Brainstorm Mindmap.md",
+    "Marking thingies",
+    "Lessons/7 - PPA Draft & Planning.md",
+    "Lessons/8 - PPB Meetings.md",
+    "Mermaid GANTT example.md",
     "Planning/1 Year/Modules.md",
-    "Lessons/What will I have to do.md",
-    "test.md",
-    "().md",
-    "Modules.pdf",
-    "Images/Pasted image 20250723100659.png",
-    "Lessons/2 - Planning Your Written Work.md",
-    "Output/2 - Planning Your Written Work.pdf",
-    "Images/Pasted image 20251009094420.png",
-    "Images/Pasted image 20251003133246.png",
+    "Clippings/How to embede Open Street Map in a webpage (like Google Maps).md",
+    "Planning/1 Year/Project Execution.md",
+    "Lessons/Previous Titles.md",
+    "Output/7 - PPA Draft & Planning.pdf",
+    "Lessons/Do Now.md",
+    "Clippings/Cyberis.md",
+    "Clippings/British Library cyberattack - Wikipedia.md",
+    "Clippings/Capita plc and Capita Pension Solutions Ltd.md",
+    "Clippings/CMC – Cyber Monitoring Centre.md",
+    "Clippings/Cyber Defence Alliance.md",
+    "Clippings/Dark Web Monitoring Service.md",
+    "Clippings/CYBER RESILIENCE CENTRE.md",
+    "Clippings/Several London councils thought be affected by cyber-attacks.md",
+    "Clippings/Making the Future - Sheffield UTC Academy Trust.md",
+    "Clippings/Security Priorities 2025 - Info-Tech Research Group.md",
     "Output/GANTT - Template.pdf",
     "Output/GANTT - Example.pdf",
-    "Planning/1 Year",
-    "Planning/Extended A",
+    "Output/6 - ROIP & Meetings.pdf",
+    "Output/5 - Research & ROIP Prep.pdf",
     "Output/1 - Outline how the course works.pdf",
+    "Output/4 and 5 RA.pdf",
+    "Output/4 - Production Log Setup & ROIP.pdf",
+    "Images/CyberEPQ - W06 - Referencing_1.png",
+    "Images/CyberEPQ - W06 - Referencing_0.png",
+    "Images/Pasted image 20250723100659.png",
+    "Images/Pasted image 20251009094420.png",
+    "Images/Pasted image 20251003133246.png",
     "Images/Pasted image 20250210103639.png",
     "Images/Pasted image 20250124141258.png",
-    "CyberEPQ Project Titles",
-    "Output/1 - Outline how the project works.pdf",
     "Images/CyberEPQ - W20 -  Planning Review_1.png",
     "Images/CyberEPQ - W21 -  Essay Writing Activity 1_0.png",
-    "Images/CyberEPQ - W21 -  Essay Writing Activity 1_1.png",
-    "Images/CyberEPQ - W21 -  Essay Writing Activity 1_2.png",
-    "Images/CyberEPQ - W20 -  Planning Review_2.png",
-    "Images"
+    "Images/CyberEPQ - W21 -  Essay Writing Activity 1_1.png"
   ]
 }

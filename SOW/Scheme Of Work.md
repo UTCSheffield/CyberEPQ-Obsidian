@@ -7,11 +7,11 @@
 - [x] Week 7 [[3 - Referencing]] 7 days ✅ 2025-11-11
 - [x] Week 8 [[4 - Production Log Setup & ROIP]] No Wed-Fri 7 days ✅ 2025-11-11
 - [x] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2025-11-03 7 days ✅ 2025-11-11
-- [ ] Week 10 [[5 - Research & ROIP Prep]] 7 days
-- [ ] Week 11 [[6 - ROIP & Meetings]] 7 days
-- [ ] Week 12 [[7 - PPA Draft & Planning]] 7 days
-- [ ] Week 13 [[8 - PPB Meetings]] 7 days
-- [ ] Week 14 [[9 - Get On With It]] 7 days
+- [x] Week 10 [[5 - Research & ROIP Prep]] 7 days ✅ 2025-12-11
+- [x] Week 11 [[6 - ROIP & Meetings]] 7 days ✅ 2025-12-11
+- [x] Week 12 [[7 - PPA Draft & Planning]] 7 days ✅ 2025-12-11
+- [x] Week 13 [[8 - PPB Meetings]] 7 days ✅ 2025-12-11
+- [x] Week 14 [[9 - Get On With It]] 7 days ✅ 2025-12-11
 - [ ] Week 15  7 days
 - [ ] Week 16  [[5 - Research & ROIP Prep]] 🛫 2026-01-05 7 days
 - [ ] Week 17 [[10 - Planning Review]] [[6 - ROIP & Meetings]] 7 days

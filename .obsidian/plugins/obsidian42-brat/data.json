@@ -1,0 +1,23 @@
+{
+  "pluginList": [
+    "stretchyboy/obsidian-note-link-citation"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "stretchyboy/obsidian-note-link-citation",
+      "version": ""
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": "",
+  "selectLatestPluginVersionByDefault": false,
+  "allowIncompatiblePlugins": false
+}
