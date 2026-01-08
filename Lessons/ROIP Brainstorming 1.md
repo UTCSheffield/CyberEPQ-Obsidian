@@ -69,10 +69,20 @@ You should find at least 3 specific sites for at least 2 ideas.
 ---
 
 # Assignment
-## Research for ROIP
+## Record of Initial Planning : Production Log Upload
 
 ---
-## Heading Towards
+
 ![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
 
+---
+# SMARTER Targets
+
+- **Specific** - What exactly will you do?
+- **Measurable** - How will you know you’ve succeeded?
+- **Achievable** - Is it realistic?
+- **Resourced** - Have you allocated enough time? Have you got enough information?
+- **Time Tabled** - By when will you achieve each step?
+- **Evaluated** - Keep checking if you are on track
+- **Reviewed** - Sometimes changed circumstances mean a modification in the goal is necessary
 
