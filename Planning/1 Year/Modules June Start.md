@@ -9,7 +9,7 @@ tags:
 - [ ] Module 4  14 days
 - [ ] Module 5   14 days
 - [ ] Module 6   14 days
-- [ ] Module 7   14 days
-- [ ] Module 8   14 days
+- [x] Module 7   14 days ✅ 2026-01-26
+- [x] Module 8   14 days ✅ 2026-01-26
 - [ ] Specialist Module  14 days 📅 2025-11-16
-- [ ] Overall Journal Reflection 21 days 
+- [x] Overall Journal Reflection 21 days ✅ 2026-01-26

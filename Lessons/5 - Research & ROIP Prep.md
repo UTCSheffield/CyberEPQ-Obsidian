@@ -11,6 +11,7 @@
 
 
 ---
+
 ![[ROIP Brainstorming]]
 
 ---
@@ -27,12 +28,13 @@
 * Is there a danger that you will be unable to approach the project impartially and in a balanced way?
 
 ---
+
 # ROIP
 
-* Start your ROIP  \(Page 6 of the Production Log\) by filling in the
-  * "Your first idea for topic \(to include overall aim\)" and
-  * "Your first ideas for research and development of your project" boxes\.
-* And fill in the back up idea form as well\.
+* Start your ROIP  (Page 6 of the Production Log) by filling in the
+  * "Your first idea for topic (to include overall aim)" and
+  * "Your first ideas for research and development of your project" boxes.
+* And fill in the back up idea form as well.
 
 - Can I form it into a question?
 - Can I find good information sources?

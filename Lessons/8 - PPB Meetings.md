@@ -4,9 +4,7 @@
 
 ---
 
-
 # After PPA & PPB submitted to Moodle
-
 
 
 * What does your plan say you are doing?

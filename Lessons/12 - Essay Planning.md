@@ -1,3 +1,7 @@
+
+![[Glossary/12 - Essay Planning|12 - Essay Planning]]
+
+---
 ## Deadline Dates
 
 The Full Project needs to be done and handed in to me by 9am on the 17th March.

@@ -4,10 +4,12 @@
 
 ---
 
+<!--
 # Extended Cohort A
 
 - Get on with your modules
 - Your should be working on at least Module 5 (due this Sunday)
+-->
 
 ---
 

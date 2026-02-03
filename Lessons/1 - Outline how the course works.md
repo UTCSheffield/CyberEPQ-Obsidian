@@ -3,7 +3,6 @@
 
 ![[Do Now]]
 
-
 ---
 ## CyberEPQ by CIISec
 

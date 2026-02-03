@@ -1,6 +1,6 @@
-- [ ] Research 14 days ⏳ 2025-11-10
-- [ ] Record of Initial Planning 7 days ⏳ 2025-11-17 📅 2025-11-23
-- [ ] Draft Project Proposal A & Plan 7 days 🆔 zzs98s
-- [ ] Project Proposal A & Plan 7 days 🆔 nv1bir ⛔ zzs98s
-- [ ] Project Proposal A & Plan - Submission ⛔ lcuy5s 📅 2025-12-12
-- [ ] Project Proposal approvals (PPC) to schools 📅 2026-01-09
+- [x] Research 14 days ⏳ 2025-11-10 ✅ 2026-01-26
+- [x] Record of Initial Planning 7 days ⏳ 2025-11-17 📅 2025-11-23 ✅ 2026-01-26
+- [x] Draft Project Proposal A & Plan 7 days 🆔 zzs98s ✅ 2026-01-26
+- [x] Project Proposal A & Plan 7 days 🆔 nv1bir ⛔ zzs98s ✅ 2026-01-26
+- [x] Project Proposal A & Plan - Submission ⛔ lcuy5s 📅 2025-12-12 ✅ 2026-01-26
+- [x] Project Proposal approvals (PPC) to schools 📅 2026-01-09 ✅ 2026-01-26
