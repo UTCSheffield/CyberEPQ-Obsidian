@@ -15,12 +15,12 @@
 - [ ] Week 15  7 days
 - [ ] Week 16  [[5 - Research & ROIP Prep]] 🛫 2026-01-05 7 days
 - [ ] Week 17 [[10 - Planning Review]] [[6 - ROIP & Meetings]] 7 days
-- [ ] Week 18 [[11 - Essay Writing Activity 1]] 7 days
-- [ ] Week 19 [[12 - Essay Planning]] [[7 - PPA Draft & Planning]] 7 days
-- [ ] Week 20 [[13 - Mid Project Review & Essay Writing]] 7 days
-- [ ] Week 21 [[14 - Presentation Planning]] 7 days
-- [ ] Week 22 [[15 - Presentation Planning]] [[8 - PPB Meetings]]  🛫 2026-02-23 7 days
-- [ ] Week 23 [[16 - Presentations]] [[9 - Get On With It]] 7 days
+- [ ] Week 18 [[11 - Essay Intro Exercise]] 7 days
+- [ ] Week 19 [[13 - Essay Planning]] [[7 - PPA Draft & Planning]] 7 days
+- [ ] Week 20 [[Lessons/14 - Mid Project Review]] 7 days
+- [ ] Week 21 [[16 - Presentation Planning]] 7 days
+- [ ] Week 22 [[Glossary/15 - Presentation Planning]] [[8 - PPB Meetings]]  🛫 2026-02-23 7 days
+- [ ] Week 23 [[Glossary/16 - Presentations]] [[9 - Get On With It]] 7 days
 - [ ] Week 24  7 days
 - [ ] Week 25  [[10 - Planning Review]] 7 days
 - [ ] Week 26  7 days

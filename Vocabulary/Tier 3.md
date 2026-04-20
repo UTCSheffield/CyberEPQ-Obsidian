@@ -196,8 +196,7 @@
 ## evaluation
 
 1. An assessment, such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.
-2. A completion of a mathematical operation; a valuation.
-3. Determination of the value of a variable or expression.
+2. Determination of the value of a variable or expression.
 
 ## facilitator
 
@@ -221,9 +220,8 @@
 
 ## guidance
 
-1. The act or process of guiding.
-2. Advice or counselling on some topic.
-3. Any process or system to control the path of a vehicle, missile etc.
+1. Advice or counselling on some topic.
+2. Any process or system to control the path of a vehicle, missile etc.
 
 ## guideline
 

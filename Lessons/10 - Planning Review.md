@@ -4,7 +4,7 @@
 ---
 # This week’s work
 
-* Copy PPC into your copy of “Production Log”
+* Use the New V5 “Production Log” I sent with your PPC in.
 * Do “Planning Review”
   * Outline the steps in your project
     * What do you want to achieve? Answer here\.
@@ -30,28 +30,7 @@
   * And the latest list of your info Sources
 
 ---
-# After Planning Review : Get On With It
 
-* Have you still not submitted “Overall Journal Reflection”?
-  * \(more zapping will happen after this session\)
-* What does your plan say you are doing?
-  * Do that & update your plan to record progress\.
-  * Can’t do that: Change your plan \(recording what the new plan is and why you changed it\)
-* My Next Question : Can you answer your question yet?
-  * What info do you not have?
-    * Find it and add it to where you are recording your info sources
-    * Remember to record some places you looked that you can’t use and why\.
+#### After Planning Review .... 
 
----
-
-<!--
-# Deadline Dates
-
-![](../Images/CyberEPQ%20-%20W20%20-%20%20Planning%20Review_0.png)
-
-The Project needs to be done and handed in to me by 9am on the 17th March\.
-
-This is  <span style="color:#555555"> __61__ </span>  <span style="color:#555555"> </span> days away\.
-
-![](../Images/CyberEPQ%20-%20W20%20-%20%20Planning%20Review_1.png)
--->
+![[Get On With It]]

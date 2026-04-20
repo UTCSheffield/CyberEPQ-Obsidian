@@ -4,7 +4,7 @@
 ---
 # Do Now / On Whiteboards
 
-- What is your favourite thing you have learnt so far?
+- What is your favourite thing you have learned so far?
 - What Module was it in?
 - What did you expect to learn about that you haven’t yet?
 - What Specialist / Innovation Module might that be in?
