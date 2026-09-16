@@ -44,18 +44,10 @@ The City & Guilds Extended Project qualification carries up to 28 UCAS points th
 ![[The Stages]]
 
 ---
-
-
-![[Pasted image 20251003133246.png]]
-
+![[Pasted image 20260916112043.png]]
 ---
 
 ![[Current Focus - Online Modules]]
 
----
-
-## Get On With It
-
-![[Upcoming Tasks]]
 
 

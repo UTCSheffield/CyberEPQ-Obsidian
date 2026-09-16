@@ -1,39 +1,23 @@
-- [x] Week 1 No Mon  🛫 2025-09-01 7 days ✅ 2025-11-11
-- [x] Week 2 7 days ✅ 2025-11-11
-- [x] Week 3 7 days ✅ 2025-11-11
-- [x] Week 4  7 days ✅ 2025-11-11
-- [x] Week 5 [[1 - Outline how the course works]]  7 days ✅ 2025-11-11
-- [x] Week 6 [[2 - Planning Your Written Work]]  7 days ✅ 2025-11-11
-- [x] Week 7 [[3 - Referencing]] 7 days ✅ 2025-11-11
-- [x] Week 8 [[4 - Production Log Setup & ROIP]] No Wed-Fri 7 days ✅ 2025-11-11
-- [x] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2025-11-03 7 days ✅ 2025-11-11
-- [x] Week 10 [[5 - Research & ROIP Prep]] 7 days ✅ 2025-12-11
-- [x] Week 11 [[6 - ROIP & Meetings]] 7 days ✅ 2025-12-11
-- [x] Week 12 [[7 - PPA Draft & Planning]] 7 days ✅ 2025-12-11
-- [x] Week 13 [[8 - PPB Meetings]] 7 days ✅ 2025-12-11
-- [x] Week 14 [[9 - Get On With It]] 7 days ✅ 2025-12-11
+- [ ] Week 1 No Mon  🛫 2026-08-31 7 days
+- [ ] Week 2 7 days
+- [ ] Week 3 7 days
+- [ ] Week 4 [[1 - Outline how the course works]]  7 days
+- [ ] Week 5 [[2 - Planning Your Written Work]]  7 days
+- [ ] Week 6 [[3 - Referencing]] 7 days
+- [ ] Week 7 [[4 - Production Log Setup & ROIP]] 7 days
+- [ ] Week 8 No Wed-Fri so no lessons 7 days
+- [ ] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2026-11-02 7 days
+- [ ] Week 10 [[5 - Research & ROIP Prep]] 7 days
+- [ ] Week 11 [[6 - ROIP & Meetings]] 7 days
+- [ ] Week 12 [[7 - PPA Draft & Planning]] 7 days
+- [ ] Week 13 [[8 - PPB Meetings]] 7 days
+- [ ] Week 14 [[9 - Get On With It]] 7 days
 - [ ] Week 15  7 days
-- [ ] Week 16  [[5 - Research & ROIP Prep]] 🛫 2026-01-05 7 days
+- [ ] Week 16  [[5 - Research & ROIP Prep]] 🛫 2027-01-04 7 days
 - [ ] Week 17 [[10 - Planning Review]] [[6 - ROIP & Meetings]] 7 days
 - [ ] Week 18 [[11 - Essay Intro Exercise]] 7 days
-- [ ] Week 19 [[13 - Essay Planning]] [[7 - PPA Draft & Planning]] 7 days
+- [ ] Week 19 [[13 - Essay Planning]] 7 days
 - [ ] Week 20 [[Lessons/14 - Mid Project Review]] 7 days
 - [ ] Week 21 [[16 - Presentation Planning]] 7 days
-- [ ] Week 22 [[Glossary/15 - Presentation Planning]] [[8 - PPB Meetings]]  🛫 2026-02-23 7 days
-- [ ] Week 23 [[Glossary/16 - Presentations]] [[9 - Get On With It]] 7 days
-- [ ] Week 24  7 days
-- [ ] Week 25  [[10 - Planning Review]] 7 days
-- [ ] Week 26  7 days
-- [ ] Week 27  7 days 🛫 2026-04-13
-- [ ] Week 28  7 days
-- [ ] Week 29  7 days
-- [ ] Week 30  7 days
-- [ ] Week 31  7 days
-- [ ] Week 32  7 days
-- [ ] Week 33  7 days 🛫 2026-06-01
-- [ ] Week 34  7 days
-- [ ] Week 35  7 days
-- [ ] Week 36  7 days
-- [ ] Week 37  7 days
-- [ ] Week 38  7 days
-- [ ] Week 39  7 days
+- [ ] Week 22 [[Glossary/15 - Presentation Planning]]  🛫 2027-02-22 7 days
+- [ ] Week 23 [[Glossary/16 - Presentations]] 7 days

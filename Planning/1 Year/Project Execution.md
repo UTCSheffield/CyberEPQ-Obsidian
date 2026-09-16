@@ -1,12 +1,12 @@
-- [ ] Research 3w
-- [x] Planning Review ⏳ 2026-01-09 📅 2026-01-16 ✅ 2026-01-26
+- [ ] Research ⏳ 2026-12-13 3w
+- [ ] Planning Review ⏳ 2027-01-12 📅 2027-01-17
 - [ ] ?? 7 days
 - [ ] ?? 7 days
 - [ ] ?? 7 days
-- [ ] Mid Project Review 📅 2026-02-14
-- [ ] Essay Draft  📅  2026-03-01
-- [ ] Draft Presentation  📅 2026-03-07
-- [ ] Presentation Upload  📅 2026-03-09
-- [ ] End of Project Paperwork Upload  📅 2026-03-15
-- [ ] Essay Upload  📅 2026-03-15
-- [ ] Full Project Submission  📅 2026-03-20
+- [ ] Mid Project Review 📅 2027-02-14
+- [ ] Essay Draft  📅  2027-03-01
+- [ ] Draft Presentation  📅 2027-03-07
+- [ ] Presentation Upload  📅 2027-03-09
+- [ ] End of Project Paperwork Upload  📅 2027-03-15
+- [ ] Essay Upload  📅 2027-03-15
+- [ ] Full Project Submission  📅 2027-03-22
