@@ -1,5 +1,11 @@
 
+# Warning
 
+## No one in here has submitted their Mid Project Review on time
+
+## Classcharts Missed-Deadline points after Sunday and each week after 
+
+---
 ## Lesson 15 - Essay Structure
 
 - Introduction

@@ -2,7 +2,7 @@
 ```dataviewjs
 let path = require('path');   
 
-const title = "Tasks with Start and Due Dates."
+const title = "CyberEPQ Plan."
 const usePriority = false
 // Priority mapping based on emojis
 const priorityMap = {
@@ -110,10 +110,10 @@ function getMermaid(task){
 		/*if(sanitizedTaskText.search(/Submission/gi) > -1){
             metadata.push("vert")
         }*/
-        if(sanitizedTaskText.search(/Submission|Crit|Critical/gi) > -1){
+        if(sanitizedTaskText.search(/Submission|Crit|Critical|Return/gi) > -1){
             metadata.push("crit")
         }
-        if(sanitizedTaskText.search(/Submission|Milestone|Deadline|Upload/gi) > -1){
+        if(sanitizedTaskText.search(/Submission|Milestone|Deadline|Upload|Return/gi) > -1){
             metadata.push("milestone")
         }
 

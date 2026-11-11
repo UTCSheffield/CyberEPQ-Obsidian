@@ -1,23 +1,25 @@
-- [ ] Week 1 No Mon  🛫 2026-08-31 7 days
+- [ ] Week 1 No Mon-Wed  🛫 2026-09-03 3 days
 - [ ] Week 2 7 days
 - [ ] Week 3 7 days
 - [ ] Week 4 [[1 - Outline how the course works]]  7 days
 - [ ] Week 5 [[2 - Planning Your Written Work]]  7 days
 - [ ] Week 6 [[3 - Referencing]] 7 days
 - [ ] Week 7 [[4 - Production Log Setup & ROIP]] 7 days
-- [ ] Week 8 No Wed-Fri so no lessons 7 days
-- [ ] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2026-11-02 7 days
+- [ ] Week 8 No Wed-Fri so no lessons 3 days
+- [ ] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2026-11-01 7 days
 - [ ] Week 10 [[5 - Research & ROIP Prep]] 7 days
 - [ ] Week 11 [[6 - ROIP & Meetings]] 7 days
 - [ ] Week 12 [[7 - PPA Draft & Planning]] 7 days
 - [ ] Week 13 [[8 - PPB Meetings]] 7 days
 - [ ] Week 14 [[9 - Get On With It]] 7 days
 - [ ] Week 15  7 days
-- [ ] Week 16  [[5 - Research & ROIP Prep]] 🛫 2027-01-04 7 days
-- [ ] Week 17 [[10 - Planning Review]] [[6 - ROIP & Meetings]] 7 days
+- [ ] Week 16   🛫 2027-01-03 7 days
+- [ ] Week 17 [[10 - Planning Review]] 7 days
 - [ ] Week 18 [[11 - Essay Intro Exercise]] 7 days
 - [ ] Week 19 [[13 - Essay Planning]] 7 days
-- [ ] Week 20 [[Lessons/14 - Mid Project Review]] 7 days
+- [ ] Week 20 [[14 - Mid Project Review]] 7 days
 - [ ] Week 21 [[16 - Presentation Planning]] 7 days
-- [ ] Week 22 [[Glossary/15 - Presentation Planning]]  🛫 2027-02-22 7 days
-- [ ] Week 23 [[Glossary/16 - Presentations]] 7 days
+- [ ] Week 22 [[17 - Presentations]]  🛫 2027-02-21 7 days
+- [ ] Week 23 [[18 - End of Project Paperwork]] 7 days
+- [ ] Week 24 Full Project Submission  📅 2027-03-15
+- [ ] Week 25 Marking Submission  📅 2027-03-22

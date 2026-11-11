@@ -15,13 +15,18 @@ Brainstorm ideas / No bad ideas at this stage
 ---
 ## Mindmapping
 
-  * [https://tinyurl\.com/ROIPmm](https://tinyurl.com/ROIPmm)  [https://mermaid\.live/](https://mermaid.live/)
+  * [https://tinyurl\.com/ROIPmm26](https://tinyurl.com/ROIPmm26) 
+  * [https://mermaid\.live/](https://mermaid.live/)
   * For each module
     * Think about what you saw
       * Was it interesting / exciting?
       * Did it raise any questions?
       * If Not delete the module \(to tidy up\, I expect most of you to delete a lot of the modules\)
   * Remember to save the image and text somewhere
+
+---
+
+![[Lessons/Previous Titles|Previous Titles]]
 
 ---
 # Then filter the ideas
@@ -32,6 +37,7 @@ What my question will I have to let me do?
 
 Can I find info safely?
 
+Can I find enough reliable information?
 
 ---
 ## What does the project need to allow me to include?

@@ -14,42 +14,45 @@ What properties does a good __research question__ have?
 ---
 # Production Log Set Up
 
-* Download the “Blank Production Log 25-26 UTC OLP” below .
+* Download the “Blank Production Log UTC OLP” below .
 * Never edit this document online, always edit in Desktop App
-* Fill in your "Full Name" and "Candidate Number“\. These should copy onto every page\.
+* Fill in your "Candidate’s full name":	"**CandidateName**"
+* and "Candidate Number“: "**RegNum**". These should copy onto every page\.
 * Save it with the file name format “[Candidate Number] Prod Log”
   * e.g.“GWP0490 Prod Log”
 * Upload and submit so I can check it’s set up right.
 
+![[Pasted image 20261104123621.png]]
+
+
 ---
-# Candidate Numbers
+### Candidate Numbers
 
-
-| **C&G Ref** | **Name**          |
-| ----------- | ----------------- |
-| TSI0389     | Hanad Abdullah    |
-| TSI0377     | Fahad Ahmed       |
-| TSI0365     | Nashad Ali        |
-| TSI0342     | Kaleb Bolton      |
-| TSI0330     | Azhar Hussain     |
-| TSI0328     | Hammad Iqbal      |
-| TSI0316     | Sadaf Maryam      |
-| TSI0304     | Ayaan Nazir       |
-| TSI0293     | Jaysean Sononga   |
-| TSI0281     | Miles Urmson      |
-| TSI0279     | Theo Watson-Smith |
+| **C&G Ref** | **Forename** | **Surname** |
+| ----------- | ------------ | ----------- |
+| WHK8953     | Fawas        | Ibrahim     |
+| WHK8941     | Lewis        | Birch       |
+| WHK8939     | Jibreel      | Elmi        |
+| WHK8927     | Yashovardhan | Kilaru      |
+| WHK8915     | Hazim        | Mohammed    |
+| WHK8892     | Oluwatobi    | Olanrele    |
+| WHK8880     | Callum       | Payling     |
+| WHK8878     | Zakariya     | Rehman      |
+| WHK8866     | Muhammad     | Sulayman    |
+| WHK8843     | Khadija      | Sughra      |
 
 ---
 # Production Log Set Up
 
-* Download the “Blank Production Log 25-26 UTC OLP”\.
-* __Never edit this document online\, always edit in Desktop App.
-* Fill in your "Full Name" and "Candidate Number“. These should copy onto every page\.
+* Download the “Blank Production Log UTC OLP” below .
+* Never edit this document online, always edit in Desktop App
+* Fill in your "Candidate’s full name":	"**CandidateName**"
+* and "Candidate Number“: "**RegNum**". These should copy onto every page\.
 * Save it with the file name format “[Candidate Number] Prod Log”
   * e.g.“GWP0490 Prod Log”
-* Upload and submit so I can check it’s set up right\.
+* Upload and submit so I can check it’s set up right.
 
-![](../Images/CyberEPQ%20-%20W07%20-%20Production%20Log%20Setup%20&%20Referencing_1.png)
+![[Pasted image 20261104123621.png]]
 
 ---
 
