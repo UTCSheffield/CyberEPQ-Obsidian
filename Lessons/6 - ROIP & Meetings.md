@@ -29,9 +29,10 @@
 - Can I do this safely?
 
 ---
-# A*'s from last year
+# A*'s
 
-* In the exploitation phase of the social engineering attack cycle, how do attackers manipulate victims to obtain sensitive information and what prevention techniques can individuals at home do to protects against this from occurring?
+* Can digital forensics processes survive the continued integration of quantum computing. How will they change?
+- In the exploitation phase of the social engineering attack cycle, how do attackers manipulate victims to obtain sensitive information and what prevention techniques can individuals at home do to protects against this from occurring?
 * Is Google Firebase a bad idea for security?
 * How viable will quantum cryptographical methods be to UK small businesses in the next 10 years?
 
