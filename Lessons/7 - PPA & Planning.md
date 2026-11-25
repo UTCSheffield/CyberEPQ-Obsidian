@@ -1,27 +1,4 @@
-# Lesson 7 - PPA Draft & Planning
-
----
-Interesting things
-
-## This week:
-
-[[Several London councils thought be affected by cyber-attacks|('Several London councils thought be affected by cyber-attacks', NaN)]]
-
----
-
-## Horror Stories you can learn from
-
- [[British Library cyberattack - Wikipedia|('British Library cyberattack - Wikipedia', 2032)]]
- [[Capita plc and Capita Pension Solutions Ltd|('Capita plc and Capita Pension Solutions Ltd')]] The ICO repor
- 
----
-
-## Possible Sources / Organisation
-
- [[Security Priorities 2025 - Info-Tech Research Group|('Security Priorities 2025 | Info-Tech Research Group')]]
- [[Cyber Defence Alliance|('Cyber Defence Alliance')]]
- [[CMC – Cyber Monitoring Centre|('CMC – Cyber Monitoring Centre')]]
-[[CYBER RESILIENCE CENTRE|('CYBER RESILIENCE CENTRE', NaN)]]
+# Lesson 7 - PPA & Planning
 
 ---
 
@@ -29,42 +6,29 @@ Interesting things
 
 ### Companies that might be able to help:
 
+James Methley Cyber Architect with NHS experience. 
 [[Cyberis|('Cyberis | Information security consultants', NaN)]]
 [[Lexonis|('Lexonis', NaN)]]
  [[Dark Web Monitoring Service|('Dark Web Monitoring Service')]]
 
 ---
-# First thing : How Teams Works
-
-I probably didn’t explain this properly \(I’ve been working in teams for a long time and missed the obvious\) After you submit each assignment :
-
-1. I get a copy of it
-2. I edit my comments in
-3. When I return it the version in your assignment is replaced with my version\.
-
-So never edit it when it’s turned in \(including via the ‘Recents’ in Word / Onedrive / Windows\)
-
-You need to download the returned version\, to carry on with your work\.
-
+# Stragglers : Record of Initial Planning : Production Log Upload
 
 ---
 
+![](../Images/CyberEPQ%20-%20W06%20-%20Referencing_1.png)
 
-# Aim for today / tomorrow
+---
+## Aim for today / tomorrow
 
-Get all PPA drafts in 
-
-With a Plan
-
-Get started on submitting the PPA & Plan proper
-
-Have meeting
+- Stragglers finish RoIP / I will fill in my feedback on your keyboard
+- Do the last RoIP box with what you are going to change
+- Fill in the PPA (using the changes you said in the last RoIP box)
+- Come up with a Plan
 
 ---
 
 # Checking your idea
-
-
 
 * Is the title clear and focused on an issue which can be managed:
   * within the timescale\, available resources and word total?
@@ -97,7 +61,7 @@ Select and use a range of  __communication__  skills and media to present  evide
 
 ---
 
-![[Titles 2025-26]]
+![[Titles 2026-27]]
 
 ---
 ## Project Proposal Part A: Title of Extended Project
