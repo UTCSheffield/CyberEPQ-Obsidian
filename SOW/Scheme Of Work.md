@@ -9,7 +9,7 @@
 - [ ] Week 9 [[4 - Production Log Setup & ROIP]] 🛫 2026-11-01 7 days
 - [ ] Week 10 [[5 - Research & ROIP Prep]] 7 days
 - [ ] Week 11 [[6 - ROIP & Meetings]] 7 days
-- [ ] Week 12 [[7 - PPA Draft & Planning]] 7 days
+- [ ] Week 12 [[7 - PPA & Planning]] 7 days
 - [ ] Week 13 [[8 - PPB Meetings]] 7 days
 - [ ] Week 14 [[9 - Get On With It]] 7 days
 - [ ] Week 15  7 days
