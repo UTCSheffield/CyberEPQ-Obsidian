@@ -6,10 +6,10 @@
 
 ### Companies that might be able to help:
 
-James Methley Cyber Architect with NHS experience. 
-[[Cyberis|('Cyberis | Information security consultants', NaN)]]
-[[Lexonis|('Lexonis', NaN)]]
- [[Dark Web Monitoring Service|('Dark Web Monitoring Service')]]
+- James Methley Cyber Architect with NHS experience. 
+- [[Cyberis|('Cyberis | Information security consultants', NaN)]]
+- [[Lexonis|('Lexonis', NaN)]]
+ - [[Dark Web Monitoring Service|('Dark Web Monitoring Service')]]
 
 ---
 ## Stragglers : Record of Initial Planning : Production Log Upload
@@ -163,6 +163,8 @@ They say they like GANTT charts\, but this isn’t a GANTT chart\.
 
 
 ## This is also not a GANTT Chart but…..
+
+Class Materials -> "CyberEPQ GANTT Template"
 
 ![](../Images/CyberEPQ%20-%20W13%20-%20%20PPA%20Draft%20&%20Planning_1.png)
 
