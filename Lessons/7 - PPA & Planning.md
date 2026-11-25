@@ -12,7 +12,7 @@ James Methley Cyber Architect with NHS experience.
  [[Dark Web Monitoring Service|('Dark Web Monitoring Service')]]
 
 ---
-# Stragglers : Record of Initial Planning : Production Log Upload
+## Stragglers : Record of Initial Planning : Production Log Upload
 
 ---
 
@@ -170,10 +170,11 @@ They say they like GANTT charts\, but this isn’t a GANTT chart\.
 ---
 
 
-## This mermaid chart is in the “Markdown Planning Techniques.md”
+## This mermaid chart is in the “Mermaid GANTT example.md”
 
-![](../Images/CyberEPQ%20-%20W13%20-%20%20PPA%20Draft%20&%20Planning_2.png)
+[[Mermaid GANTT example]]
 
+![[Pasted image 20261125120725.png]]
 
 ---
 

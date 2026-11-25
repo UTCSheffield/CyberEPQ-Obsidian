@@ -247,7 +247,7 @@ gantt
 
     // Debug mode: Show raw text
     dv.el("pre", ganttData);   
-    //dv.el("pre", ganttData.replace("```",""));
+    dv.el("pre", ganttData.replace("```",""));
 } else {
     dv.paragraph("No tasks found with Gantt chart marker and with start and due dates. Mark text with #Gantt and ensure both start and due dates are marked.");
 }
