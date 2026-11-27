@@ -39,6 +39,7 @@
 
 * Outline any additional advice or comments that you received from your supervisor during this stage\.  – Talk to me or submit for these\.
 * Outline changes\, clarifications or additions you have made as a result of your discussion with your supervisor  – more adjustments
+* Add the **Date**
 * Also upload :
   * Both versions of your GANTT / Plan
   * And your current "Evaluation Table of Resources"

@@ -11,14 +11,12 @@
             "id": "6e4cc1913eb3aabe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Lessons/CyberEPQ Webinar.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Pasted image 20260707140549.jpg"
               },
-              "icon": "lucide-file",
-              "title": "CyberEPQ Webinar"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260707140549"
             }
           },
           {
@@ -110,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/3 - Referencing.md",
+                "file": "Images/Pasted image 20260707140549.jpg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -125,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/3 - Referencing.md",
+                "file": "Images/Pasted image 20260707140549.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,12 +165,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,20 +189,27 @@
   },
   "active": "6e4cc1913eb3aabe",
   "lastOpenFiles": [
+    "Lessons/CyberEPQ Webinar.md",
+    "Images/Pasted image 20260707140549.jpg",
+    "Images/Pasted image 20261125120725.png",
+    "Images/Pasted image 20261008120011.png",
+    "Images/Pasted image 20260916142417.png",
+    "Images/Pasted image 20260916141356.png",
+    "Images/Pasted image 20260916112043.png",
+    "Lessons/8 - PPB Meetings.md",
+    "Lessons/7 - PPA & Planning.md",
+    "Tier 3 copy.md",
+    "Lessons/11 - Essay Intro Exercise.md",
+    "Lessons/10 - Planning Review.md",
     "Lessons/18 - End of Project Paperwork.md",
     "Lessons/17 - Presentations.md",
     "Lessons/16 - Presentation Planning.md",
     "Lessons/15 - Essay Writing.md",
     "Lessons/14 - Mid Project Review.md",
     "Lessons/13 - Essay Planning.md",
-    "Lessons/10 - Planning Review.md",
     "Lessons/12 - Essay Conclusion Exercise.md",
-    "Lessons/11 - Essay Intro Exercise.md",
-    "Lessons/8 - PPB Meetings.md",
     "Lessons/9 - Get On With It.md",
     "Lessons/Get On With It.md",
-    "Lessons/7 - PPA & Planning.md",
-    "Pasted image 20261125120725.png",
     "Mermaid GANTT example.md",
     "Lessons/ROIP Brainstorming.md",
     "Markdown Pl.md",
@@ -215,16 +220,9 @@
     "Lessons/Previous Titles.md",
     "Lessons/6 - ROIP & Meetings.md",
     "CyberEPQ Project Titles/2019-20.md",
-    "Lessons/ROIP Brainstorming 1.md",
-    "CyberEPQ Project Titles/2022-23.md",
-    "CyberEPQ Project Titles/2018-19.md",
-    "Pasted image 20261104123621.png",
-    "Pasted image 20261008120011.png",
-    "Pasted image 20260930122145.png",
-    "Pasted image 20260923121223.png",
-    "Pasted image 20260916142417.png",
-    "Pasted image 20260916141356.png",
-    "Pasted image 20260916112043.png",
+    "Images/Pasted image 20261104123621.png",
+    "Images/Pasted image 20260930122145.png",
+    "Images/Pasted image 20260923121223.png",
     "Output/1 - Outline how the course works.pdf",
     "Output/Previous Titles.pdf",
     "Marking thingies",
@@ -235,7 +233,6 @@
     "Output/5 - Research & ROIP Prep.pdf",
     "Output/4 and 5 RA.pdf",
     "Output/4 - Production Log Setup & ROIP.pdf",
-    "Images/CyberEPQ - W06 - Referencing_1.png",
-    "Images/CyberEPQ - W06 - Referencing_0.png"
+    "Images/CyberEPQ - W06 - Referencing_1.png"
   ]
 }
