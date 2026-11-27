@@ -43,26 +43,26 @@
 ```mermaid
 
 mindmap
-  root((Impact))
-    Skills
-        Project Management
-	    Secondary Research 
-	    Paper writing
-	    Primary Research
-	    Experiment Design
-	    Cyber Skills
-	    All better with focus
-    Progression
-        UTCness pathway
-	    Uni
-		    Cyber Security
-		    Computing - this year 1 who had no Uni interewst until Research
-		    Software Enginnering
-	    Jobs
-		    IT and others
-	    Degree Apprenticeships
-		    1 started from CyberEPQ
-	Professional contact
+	root((Impact))
+		Skills
+	        Project Management
+		    Secondary Research 
+		    Paper writing
+		    Primary Research
+		    Experiment Design
+		    Cyber Skills
+		    All better with focus
+	    Progression
+	        UTCness pathway
+		    Uni
+			    Cyber Security
+			    Computing - this year 1 who had no Uni interewst until Research
+			    Software Enginnering
+		    Jobs
+			    IT and others
+		    Degree Apprenticeships
+			    1 started from CyberEPQ
+		Professional contact
 	
 ```
 

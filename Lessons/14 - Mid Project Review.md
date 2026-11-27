@@ -24,7 +24,12 @@
 ---
 
 
-#### After the Mid Project Review .... 
+### After the Mid Project Review .... 
+
+#### Make a Version 34of the GANTT worksheet
+You want to be working on version 4 (marking stuff,  off modifying timing etc.) "Mid Project Review" to the End
+
+---
 
 ![[Get On With It]]
 

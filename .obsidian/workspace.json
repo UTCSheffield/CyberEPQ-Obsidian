@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/7 - PPA & Planning.md",
+                "file": "Lessons/CyberEPQ Webinar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - PPA & Planning"
+              "title": "CyberEPQ Webinar"
             }
           },
           {
@@ -33,22 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Mermaid GANTT example"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d66ccaf2d0cb71d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "571b28da355211bd",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: 7 - PPA & Planning.md"
             }
           }
         ]
@@ -205,11 +189,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "571b28da355211bd",
+  "active": "6e4cc1913eb3aabe",
   "lastOpenFiles": [
+    "Lessons/18 - End of Project Paperwork.md",
+    "Lessons/17 - Presentations.md",
+    "Lessons/16 - Presentation Planning.md",
+    "Lessons/15 - Essay Writing.md",
+    "Lessons/14 - Mid Project Review.md",
+    "Lessons/13 - Essay Planning.md",
+    "Lessons/10 - Planning Review.md",
+    "Lessons/12 - Essay Conclusion Exercise.md",
+    "Lessons/11 - Essay Intro Exercise.md",
+    "Lessons/8 - PPB Meetings.md",
+    "Lessons/9 - Get On With It.md",
+    "Lessons/Get On With It.md",
+    "Lessons/7 - PPA & Planning.md",
     "Pasted image 20261125120725.png",
     "Mermaid GANTT example.md",
-    "Lessons/7 - PPA & Planning.md",
     "Lessons/ROIP Brainstorming.md",
     "Markdown Pl.md",
     "Planning/1 Year/GANTT - Template.md",
@@ -222,17 +218,6 @@
     "Lessons/ROIP Brainstorming 1.md",
     "CyberEPQ Project Titles/2022-23.md",
     "CyberEPQ Project Titles/2018-19.md",
-    "Lessons/Deadlines - Extended Cohort.md",
-    "Lessons/CyberEPQ Webinar.md",
-    "CyberEPQ Project Titles/2020-21.md",
-    "CyberEPQ Project Titles/2021-22.md",
-    "CyberEPQ Project Titles/2023-24.md",
-    "CyberEPQ Project Titles/2024-25.md",
-    "CyberEPQ Project Titles/2025-26.md",
-    "CyberEPQ Project Titles/2017-18.md",
-    "Lessons/Titles 2025-26.md",
-    "Lessons/Forming An Idea.md",
-    "ROIP Brainstorm Mindmap.md",
     "Pasted image 20261104123621.png",
     "Pasted image 20261008120011.png",
     "Pasted image 20260930122145.png",
@@ -251,7 +236,6 @@
     "Output/4 and 5 RA.pdf",
     "Output/4 - Production Log Setup & ROIP.pdf",
     "Images/CyberEPQ - W06 - Referencing_1.png",
-    "Images/CyberEPQ - W06 - Referencing_0.png",
-    "Images/Pasted image 20250723100659.png"
+    "Images/CyberEPQ - W06 - Referencing_0.png"
   ]
 }

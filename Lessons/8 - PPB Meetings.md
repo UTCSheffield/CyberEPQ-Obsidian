@@ -1,13 +1,18 @@
 
 # # Lesson 8 - PPB Meetings
 
+- Make sure you fill in the Dates on PPA/B
+- Copy your Current title in to the "**Extended Project working title**" on page 6 of the Prod Log.
 
 ---
 
-# After PPA & PPB submitted to Moodle
+# After PPA & PPB submitted to CIISec
 
+### Make a Version 2 of the GANTT worksheet
+You want to be working on version 2 (marking stuff,  off modifying timing etc.) from when we send off the plan to when we get the PPC back and do the planning review.
 
-* What does your plan say you are doing?
-  * Do that & update your plan\.
-  * Can’t do that: change your plan\.
-* My Next Question : Can you answer your question yet?
+### Add 2 sources you are not going to use to your Evaluation Table of Resources. NOW
+
+---
+
+![[Get On With It]]
